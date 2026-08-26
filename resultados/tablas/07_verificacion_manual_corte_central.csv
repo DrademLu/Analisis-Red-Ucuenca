@@ -1,0 +1,8 @@
+campus,desde_S,hacia_T,capacidad_mbps,rol,capa_u,capa_v,campus_u,campus_v,label,es_puente_P1,expresion
+Campus Central,ROUTER-CAMPUS-CENTRO-HISTORICO,ROUTER-L2TP-BALZAY,1000,wan,wan,wan,Campus Balzay,Sede Centro Historico,L2TP 1 Gbps backup,False,ROUTER-CAMPUS-CENTRO-HISTORICO -> ROUTER-L2TP-BALZAY: 1000 Mbps
+Campus Central,ROUTER-CAMPUS-MUSEO,ROUTER-L2TP-BALZAY,1000,wan,wan,wan,Campus Balzay,Sede Museo,L2TP 1 Gbps backup,False,ROUTER-CAMPUS-MUSEO -> ROUTER-L2TP-BALZAY: 1000 Mbps
+Campus Central,CCJ-1A-A10,CCJ-CJURIDICO-D4,1000,principal,agregacion,acceso,Campus Central,Campus Central,D4: 1/1/51 39.04 Mbps,True,CCJ-1A-A10 -> CCJ-CJURIDICO-D4: 1000 Mbps
+Campus Central,CCJ-1A-A11,CCJ-CJURIDICO-D4,1000,principal,agregacion,acceso,Campus Central,Campus Central,D4: 1/1/52 1.56 Mbps,True,CCJ-1A-A11 -> CCJ-CJURIDICO-D4: 1000 Mbps
+Campus Central,DATCC-2A-C2,FORTIGATE-1800F-CENTRAL,10000,wan,interconexion,core,Campus Central,Campus Central,LAG 2x10G red LAN L3 10 Gbps,False,DATCC-2A-C2 -> FORTIGATE-1800F-CENTRAL: 10000 Mbps
+Campus Central,DATCC-2A-C3,FORTIGATE-1800F-CENTRAL,10000,wan,interconexion,core,Campus Central,Campus Central,LAG 2x10G red LAN L3 10 Gbps,False,DATCC-2A-C3 -> FORTIGATE-1800F-CENTRAL: 10000 Mbps
+Campus Central,DATCC-2A-C3,PE2-CENTRAL,20000,wan,wan,core,Campus Central,Campus Central,MPLS L2 2x10 Gbps Trafico Data Center L2,False,DATCC-2A-C3 -> PE2-CENTRAL: 20000 Mbps

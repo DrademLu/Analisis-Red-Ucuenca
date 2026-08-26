@@ -1,0 +1,17 @@
+id,label,campus,capa,comunidad_louvain,campus_dominante_comunidad,coincide_campus_dominante
+FORTIGATE-1800F-BALZAY,FORTIGATE-1800F-BALZAY,Campus Balzay,interconexion,13,Campus Central,False
+HOS-0A-A10,HOS-0A-A10,Campus Hospitalidad,acceso,13,Campus Central,False
+HOS-0A-A13,HOS-0A-A13,Campus Hospitalidad,acceso,13,Campus Central,False
+HOS-0A-D05,HOS-0A-D05,Campus Hospitalidad,agregacion,13,Campus Central,False
+HOS-1A-A12,HOS-1A-A12,Campus Hospitalidad,acceso,13,Campus Central,False
+HOS-2A-A11,HOS-2A-A11,Campus Hospitalidad,acceso,13,Campus Central,False
+INTERNET-MPLS,INTERNET-MPLS,Nube MPLS,wan,13,Campus Central,False
+PE1-BALZAY,PE1-BALZAY,Campus Balzay,wan,13,Campus Central,False
+PE2-BALZAY,PE2-BALZAY,Campus Balzay,wan,13,Campus Central,False
+ROUTER-CAMPUS-CENTRO-HISTORICO,ROUTER-CAMPUS-CENTRO-HISTORICO,Sede Centro Historico,wan,4,Campus Balzay,False
+ROUTER-CAMPUS-HUAYNA-CAPAC,ROUTER-CAMPUS-HUAYNA-CAPAC,Campus Paraiso,wan,13,Campus Central,False
+ROUTER-CAMPUS-MUSEO,ROUTER-CAMPUS-MUSEO,Sede Museo,wan,4,Campus Balzay,False
+ROUTER-CAMPUS-PARAISO,ROUTER-CAMPUS-PARAISO,Campus Paraiso,wan,13,Campus Central,False
+ROUTER-CAMPUS-YANUNCAY,ROUTER-CAMPUS-YANUNCAY,Campus Yanuncay,wan,13,Campus Central,False
+SW-ARUBA-CENTRO-HISTORICO,SW-ARUBA-CENTRO-HISTORICO,Sede Centro Historico,acceso,4,Campus Balzay,False
+SW-ARUBA-MUSEO,SW-ARUBA-MUSEO,Sede Museo,acceso,4,Campus Balzay,False

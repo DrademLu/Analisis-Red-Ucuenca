@@ -1,0 +1,4 @@
+campus,n_core,n_agregacion,enlaces_core_agregacion,ciclos_subgrafo_core_agregacion,puentes_subgrafo_core_agregacion
+Campus Balzay,2,5,8,4,1
+Campus Paraiso,1,6,6,0,6
+Campus Central,2,14,26,13,0

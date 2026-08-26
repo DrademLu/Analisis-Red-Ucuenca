@@ -1,0 +1,11 @@
+diseno,enlace,u,v,capacidad_mbps
+Alternativa grado ingenuo,1,DATCC-2A-C3,AGRPRI-1A-D10,10000
+Alternativa grado ingenuo,2,DATCC-2A-C3,BAL-AUL2-D1,10000
+Alternativa grado ingenuo,3,DATCC-2A-C3,CP-EADMINA1-D6,10000
+Alternativa grado ingenuo,4,DATCC-2A-C3,DT-0A-C13,10000
+Alternativa grado ingenuo,5,DATCC-2A-C3,INTERNET-MPLS,10000
+Alternativa intermediacion ingenua,1,DATCC-2A-C3,CPAR-C10,10000
+Alternativa intermediacion ingenua,2,DATCC-2A-C3,ROUTER-CAMPUS-HUAYNA-CAPAC,10000
+Alternativa intermediacion ingenua,3,DATCC-2A-C3,INTERNET-MPLS,10000
+Alternativa intermediacion ingenua,4,DATCC-2A-C3,DT-0A-C13,10000
+Alternativa intermediacion ingenua,5,DATCC-2A-C3,FORTIGATE-1800F-BALZAY,10000

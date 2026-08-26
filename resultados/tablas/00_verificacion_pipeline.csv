@@ -1,0 +1,17 @@
+propiedad,esperado,obtenido,estado
+nodos,177.0,177.0,OK
+aristas,209.0,209.0,OK
+componentes,1.0,1.0,OK
+densidad_redondeada,0.0134,0.0134,OK
+capa_acceso,132.0,132.0,OK
+capa_agregacion,27.0,27.0,OK
+capa_core,5.0,5.0,OK
+capa_wan,11.0,11.0,OK
+capa_interconexion,2.0,2.0,OK
+rol_principal,157.0,157.0,OK
+rol_wan,32.0,32.0,OK
+rol_respaldo,12.0,12.0,OK
+rol_secundario,5.0,5.0,OK
+rol_inferido,3.0,3.0,OK
+trafico_definido,170.0,170.0,OK
+capacidad_definida,28.0,28.0,OK

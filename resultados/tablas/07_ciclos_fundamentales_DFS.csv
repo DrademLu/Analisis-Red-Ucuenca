@@ -1,0 +1,34 @@
+ciclo_fundamental,longitud,zona,campuses,capas,recorrido
+1,4,Campus Central,Campus Central,agregacion | core,CC-AETUC-D30 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-AETUC-D30
+2,4,Campus Central,Campus Central,agregacion | core,CC-ARQUITECTURA-D107 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-ARQUITECTURA-D107
+3,4,Campus Central,Campus Central,agregacion | core,CC-BIBLIOTECA-D112 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-BIBLIOTECA-D112
+4,4,Campus Central,Campus Central,agregacion | core,CC-BLOQUE-IQ -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-BLOQUE-IQ
+5,4,Campus Central,Campus Central,agregacion | core,CC-ECONOMIA-D51 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-ECONOMIA-D51
+6,4,Campus Central,Campus Central,agregacion | core,CC-FILOSOFIA-A-D108 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-FILOSOFIA-A-D108
+7,4,Campus Central,Campus Central,agregacion | core,CC-FILOSOFIA-B-D111 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-FILOSOFIA-B-D111
+8,4,Campus Central,Campus Central,agregacion | core,CC-JURISPRUDENCIA-D110 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-JURISPRUDENCIA-D110
+9,4,Campus Central,Campus Central,agregacion | core,CC-MONJAS-D126 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-MONJAS-D126
+10,4,Campus Central,Campus Central,agregacion | core,CC-PROMAS-D31 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-PROMAS-D31
+11,4,Campus Central,Campus Central,agregacion | core,CC-PSICOLOGIA-D125 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-PSICOLOGIA-D125
+12,4,Campus Central,Campus Central,agregacion | core,CC-QUIMICA-D109 -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> CC-QUIMICA-D109
+13,3,Campus Central,Campus Central,agregacion | core,DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> DATCC-2A-C2
+14,4,Campus Central,Campus Central,agregacion | core | interconexion,FORTIGATE-1800F-CENTRAL -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> FORTIGATE-1800F-CENTRAL
+15,4,Campus Balzay,Campus Balzay,agregacion | core,BAL-AUL2-D1 -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> BAL-AUL2-D1
+16,4,Campus Balzay,Campus Balzay,agregacion | core,BAL-CENTEC-D2 -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> BAL-CENTEC-D2
+17,4,Campus Balzay,Campus Balzay,agregacion | core,CB-EADMI-D6 -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> CB-EADMI-D6
+18,3,Campus Balzay,Campus Balzay,agregacion | core,DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> DT-0A-C13
+19,4,Campus Balzay,Campus Balzay,agregacion | core | interconexion,DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> DT-0A-C13
+20,5,Campus Balzay,Campus Balzay,agregacion | core | interconexion | wan,PE2-BALZAY -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> PE2-BALZAY
+21,13,Intercampus / WAN,Campus Balzay | Campus Central | Campus Paraiso | Nube MPLS,agregacion | core | interconexion | wan,PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> PE2-BALZAY -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> FORTIGATE-1800F-CENTRAL -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> PE2-CENTRAL
+22,10,Intercampus / WAN,Campus Balzay | Campus Central | Campus Paraiso | Nube MPLS,agregacion | core | interconexion | wan,PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> PE2-BALZAY -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> FORTIGATE-1800F-CENTRAL -> PE2-CENTRAL
+23,4,Intercampus / WAN,Campus Central | Campus Paraiso | Nube MPLS,wan,PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> PE2-CENTRAL
+24,10,Intercampus / WAN,Campus Balzay | Campus Central | Campus Paraiso | Nube MPLS,agregacion | core | interconexion | wan,PE1-BALZAY -> PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> PE2-BALZAY -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> PE1-BALZAY
+25,5,Intercampus / WAN,Campus Balzay | Campus Central | Campus Paraiso | Nube MPLS,wan,PE1-BALZAY -> PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> PE1-BALZAY
+26,6,Intercampus / WAN,Campus Balzay | Campus Central | Campus Paraiso | Nube MPLS,wan,PE1-BALZAY -> PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> PE2-BALZAY -> PE1-BALZAY
+27,11,Intercampus / WAN,Campus Balzay | Campus Central | Campus Paraiso | Nube MPLS,agregacion | core | interconexion | wan,PE1-CENTRAL -> PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> PE2-BALZAY -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> FORTIGATE-1800F-CENTRAL -> PE1-CENTRAL
+28,5,Intercampus / WAN,Campus Central | Campus Paraiso | Nube MPLS,wan,PE1-CENTRAL -> PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> PE1-CENTRAL
+29,6,Intercampus / WAN,Campus Central | Campus Paraiso | Campus Yanuncay | Nube MPLS,wan,ROUTER-CAMPUS-YANUNCAY -> PE1-CENTRAL -> PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> ROUTER-CAMPUS-YANUNCAY
+30,6,Intercampus / WAN,Campus Balzay | Campus Central | Campus Paraiso | Nube MPLS,wan,PE1-CENTRAL -> PE2-CENTRAL -> ROUTER-CAMPUS-PARAISO -> ROUTER-CAMPUS-HUAYNA-CAPAC -> INTERNET-MPLS -> PE2-BALZAY -> PE1-CENTRAL
+31,4,Campus Balzay,Campus Balzay,agregacion | core | wan,ROUTER-L2TP-BALZAY -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> ROUTER-L2TP-BALZAY
+32,11,Intercampus / WAN,Campus Balzay | Campus Central | Sede Centro Historico,acceso | agregacion | core | interconexion | wan,SW-ARUBA-CENTRO-HISTORICO -> ROUTER-CAMPUS-CENTRO-HISTORICO -> ROUTER-L2TP-BALZAY -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> FORTIGATE-1800F-CENTRAL -> DATCC-2A-C2 -> CC-ADM-D40 -> DATCC-2A-C3 -> SW-ARUBA-CENTRO-HISTORICO
+33,9,Intercampus / WAN,Campus Balzay | Campus Central | Sede Museo,acceso | agregacion | core | interconexion | wan,SW-ARUBA-MUSEO -> ROUTER-CAMPUS-MUSEO -> ROUTER-L2TP-BALZAY -> DT-0A-C13 -> BAL-AUL1-D4 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> FORTIGATE-1800F-CENTRAL -> DATCC-2A-C2 -> SW-ARUBA-MUSEO

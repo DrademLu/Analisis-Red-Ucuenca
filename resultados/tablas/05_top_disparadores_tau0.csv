@@ -1,0 +1,16 @@
+tau,trigger,campus,capa,fallos_totales,fraccion_afectada,generaciones,supera_20pct
+0.0,CCJ-CJURIDICO-D4,Campus Central,agregacion,62,0.3502824858757062,3,True
+0.0,HOS-0A-D05,Campus Hospitalidad,agregacion,61,0.3446327683615819,3,True
+0.0,ODO-0B-A52,Campus Paraiso,acceso,61,0.3446327683615819,3,True
+0.0,PE1-BALZAY,Campus Balzay,wan,61,0.3446327683615819,2,True
+0.0,POS-2C-A33,Campus Paraiso,acceso,61,0.3446327683615819,3,True
+0.0,CCJ-1A-A10,Campus Central,acceso,60,0.3389830508474576,2,True
+0.0,CCJ-1A-A11,Campus Central,acceso,60,0.3389830508474576,2,True
+0.0,ENF-2B-A22,Campus Paraiso,acceso,60,0.3389830508474576,3,True
+0.0,FORTIGATE-1800F-BALZAY,Campus Balzay,interconexion,60,0.3389830508474576,2,True
+0.0,HOS-0A-A10,Campus Hospitalidad,acceso,60,0.3389830508474576,2,True
+0.0,HOS-0A-A13,Campus Hospitalidad,acceso,60,0.3389830508474576,2,True
+0.0,HOS-1A-A12,Campus Hospitalidad,acceso,60,0.3389830508474576,2,True
+0.0,HOS-2A-A11,Campus Hospitalidad,acceso,60,0.3389830508474576,2,True
+0.0,INV-1B-A62,Campus Paraiso,acceso,60,0.3389830508474576,3,True
+0.0,TECMED-1A-A41,Campus Paraiso,acceso,60,0.3389830508474576,3,True

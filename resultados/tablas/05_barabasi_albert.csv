@@ -1,0 +1,2 @@
+modelo,n,aristas,m_BA,clustering,distancia_media_CG,diametro_CG,asortatividad,fraccion_componente_gigante,componentes
+Barabasi-Albert,177,176,1,0.0,6.28723677452491,14,-0.2714342453332135,1.0,1

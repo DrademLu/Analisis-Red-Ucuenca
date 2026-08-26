@@ -1,0 +1,11 @@
+campus_origen,camino_id,flujo_mbps,costo_unitario_camino,costo_total_camino,saltos_fisicos,roles,camino
+Campus Central,1,1000,4,4000,4,principal -> principal -> wan -> wan,MINCOST::Campus Central -> PSIC-1A-A53 -> CC-PSICOLOGIA-D125 -> DATCC-2A-C3 -> PE2-CENTRAL -> INTERNET-MPLS
+Campus Central,2,1000,4,4000,4,principal -> principal -> wan -> wan,MINCOST::Campus Central -> FILOB-1B-A58 -> CC-FILOSOFIA-B-D111 -> DATCC-2A-C3 -> PE2-CENTRAL -> INTERNET-MPLS
+Campus Central,3,1000,4,4000,4,principal -> principal -> wan -> wan,MINCOST::Campus Central -> ECOK1-1A-A101 -> CC-ECONOMIA-D51 -> DATCC-2A-C3 -> PE2-CENTRAL -> INTERNET-MPLS
+Campus Central,4,1000,2,2000,2,principal -> inferido,MINCOST::Campus Central -> CCJ-1A-A11 -> CCJ-CJURIDICO-D4 -> INTERNET-MPLS
+Campus Central,5,1000,2,2000,2,principal -> inferido,MINCOST::Campus Central -> CCJ-1A-A10 -> CCJ-CJURIDICO-D4 -> INTERNET-MPLS
+Campus Balzay,1,1000,5,5000,5,principal -> principal -> wan -> wan -> wan,MINCOST::Campus Balzay -> CTBLOQ2-0A-A102 -> BAL-CENTEC-D2 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> PE1-BALZAY -> INTERNET-MPLS
+Campus Balzay,2,1000,5,5000,5,principal -> principal -> wan -> wan -> wan,MINCOST::Campus Balzay -> CTBLOQ1-0A-A101 -> BAL-CENTEC-D2 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> PE1-BALZAY -> INTERNET-MPLS
+Campus Balzay,3,1000,5,5000,5,principal -> principal -> wan -> wan -> wan,MINCOST::Campus Balzay -> AUL2-0A-A118 -> BAL-AUL2-D1 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> PE1-BALZAY -> INTERNET-MPLS
+Campus Balzay,4,1000,5,5000,5,principal -> principal -> wan -> wan -> wan,MINCOST::Campus Balzay -> AUL2-01A-A24-SUB -> BAL-AUL2-D1 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> PE1-BALZAY -> INTERNET-MPLS
+Campus Balzay,5,1000,5,5000,5,principal -> principal -> wan -> wan -> wan,MINCOST::Campus Balzay -> AUL2-01A-A124-SUBLAB2 -> BAL-AUL2-D1 -> DT-0A-C12 -> FORTIGATE-1800F-BALZAY -> PE1-BALZAY -> INTERNET-MPLS

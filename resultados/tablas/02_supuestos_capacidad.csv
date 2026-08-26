@@ -1,0 +1,7 @@
+regla,supuesto,cantidad
+Capacidad explícita,Se conserva capacidad_mbps,28
+WAN/MPLS o rol inferido,10 Gbps,8
+Troncal core/interconexión,10 Gbps,42
+Agregación-agregación,10 Gbps,1
+Acceso-agregación,1 Gbps,111
+Acceso-acceso,1 Gbps,19

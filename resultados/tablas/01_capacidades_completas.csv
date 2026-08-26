@@ -1,0 +1,210 @@
+source,target,campus_u,campus_v,capa_u,capa_v,rol,label,capacidad_original_mbps,capacidad_modelo_mbps,fuente_capacidad,es_puente_P1
+ROUTER-CAMPUS-YANUNCAY,AGRPRI-1A-D10,Campus Yanuncay,Campus Yanuncay,wan,agregacion,inferido,"Uplink MPLS del campus (inferido del informe, no visible en los diagramas)",,10000,estimada_10G_WAN_MPLS,True
+INTERNET-MPLS,HOS-0A-D05,Nube MPLS,Campus Hospitalidad,wan,agregacion,inferido,"Uplink MPLS del campus (inferido del informe, no visible en los diagramas)",,10000,estimada_10G_WAN_MPLS,True
+INTERNET-MPLS,CCJ-CJURIDICO-D4,Nube MPLS,Campus Central,wan,agregacion,inferido,"Uplink MPLS (inferido del informe, no visible en los diagramas)",,10000,estimada_10G_WAN_MPLS,True
+DATCC-2A-C2,DATCC-2A-C3,Campus Central,Campus Central,core,core,principal,Enlace entre Cores: lag256 1.89 Gbps,,10000,estimada_10G_troncal,False
+CC-AETUC-D30,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,principal,C2: lag207 74.03 Mbps,,10000,estimada_10G_troncal,False
+CC-AETUC-D30,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,respaldo,C3: lag207 0 bps,,10000,estimada_10G_troncal,False
+CC-ARQUITECTURA-D107,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,principal,C2: lag206 398.39 Mbps,,10000,estimada_10G_troncal,False
+CC-ARQUITECTURA-D107,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,respaldo,C3: lag206 0 bps,,10000,estimada_10G_troncal,False
+CC-BIBLIOTECA-D112,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,principal,C2: lag205 458.15 Mbps,,10000,estimada_10G_troncal,False
+CC-BIBLIOTECA-D112,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,respaldo,C3: lag205 0 bps,,10000,estimada_10G_troncal,False
+CC-BLOQUE-IQ,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,respaldo,C2: lag210 0 bps,,10000,estimada_10G_troncal,False
+CC-BLOQUE-IQ,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,principal,C3: lag210 494.31 Mbps,,10000,estimada_10G_troncal,False
+CC-PROMAS-D31,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,principal,C2: lag209 117.47 Mbps,,10000,estimada_10G_troncal,False
+CC-PROMAS-D31,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,respaldo,C3: lag209 0 bps,,10000,estimada_10G_troncal,False
+CC-QUIMICA-D109,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,principal,C2: lag211 103.31 Mbps,,10000,estimada_10G_troncal,False
+CC-QUIMICA-D109,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,respaldo,C3: lag211 0 bps,,10000,estimada_10G_troncal,False
+CC-ADM-D40,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,principal,C2: lag208 100.93 Mbps,,10000,estimada_10G_troncal,False
+CC-ADM-D40,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,principal,C3: lag208 82.82 Mbps,,10000,estimada_10G_troncal,False
+CC-FILOSOFIA-B-D111,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,principal,C3: lag216 181.8 Mbps,,10000,estimada_10G_troncal,False
+CC-FILOSOFIA-B-D111,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,respaldo,C2: lag216 0 bps,,10000,estimada_10G_troncal,False
+CC-JURISPRUDENCIA-D110,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,principal,C3: lag217 130.98 Mbps,,10000,estimada_10G_troncal,False
+CC-JURISPRUDENCIA-D110,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,secundario,C2: lag217 74.45 Mbps,,10000,estimada_10G_troncal,False
+CC-PSICOLOGIA-D125,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,principal,C3: lag215 265.28 Mbps,,10000,estimada_10G_troncal,False
+CC-PSICOLOGIA-D125,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,respaldo,C2: lag215 0 bps,,10000,estimada_10G_troncal,False
+CC-FILOSOFIA-A-D108,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,principal,C3: lag214 220.7 Mbps,,10000,estimada_10G_troncal,False
+CC-FILOSOFIA-A-D108,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,respaldo,C2: lag214 0 bps,,10000,estimada_10G_troncal,False
+CC-MONJAS-D126,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,principal,C3: lag213 256.51 Mbps,,10000,estimada_10G_troncal,False
+CC-MONJAS-D126,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,respaldo,C2: lag213 0 bps,,10000,estimada_10G_troncal,False
+CC-ECONOMIA-D51,DATCC-2A-C3,Campus Central,Campus Central,agregacion,core,principal,C3: lag212 346.27 Mbps,,10000,estimada_10G_troncal,False
+CC-ECONOMIA-D51,DATCC-2A-C2,Campus Central,Campus Central,agregacion,core,respaldo,C2: lag212 0 bps,,10000,estimada_10G_troncal,False
+POST-1A-A64,CC-FILOSOFIA-A-D108,Campus Central,Campus Central,acceso,agregacion,principal,D108: 1/1/5 200.42 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ADM-D40,TEAT-0A-A75,Campus Central,Campus Central,agregacion,acceso,principal,D40: 1/1/5 8.2 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ADM-D40,CMED-0A-A42,Campus Central,Campus Central,agregacion,acceso,principal,D40: 1/1/3 7.97 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ADM-D40,CCADM-2A-A43,Campus Central,Campus Central,agregacion,acceso,principal,D40: lag14 24.53 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ADM-D40,CCADM-2A-A44,Campus Central,Campus Central,agregacion,acceso,principal,D40: lag13 105.36 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ADM-D40,CCADM-2A-A45,Campus Central,Campus Central,agregacion,acceso,principal,D40: lag12 8.28 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-AETUC-D30,AETUC-0A-A76,Campus Central,Campus Central,agregacion,acceso,principal,D30: 1/1/1 59.19 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-AETUC-D30,AETUC-0A-A97,Campus Central,Campus Central,agregacion,acceso,principal,D30: 1/1/2 37.7 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AETUC-0A-A76,AETUCCF-2A-A79,Campus Central,Campus Central,acceso,acceso,principal,A76: 1/1/48 51.9 Mbps,,1000,estimada_1G_acceso,True
+CC-ECONOMIA-D51,ECOK2-1A-A52,Campus Central,Campus Central,agregacion,acceso,principal,D51: lag11 36.58 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ECONOMIA-D51,ECOK1-1A-A101,Campus Central,Campus Central,agregacion,acceso,principal,D51: lag12 5.73 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ECONOMIA-D51,ECOK1-1A-A102,Campus Central,Campus Central,agregacion,acceso,principal,D51: lag13 268.16 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-FILOSOFIA-A-D108,FILOA-0B-A56,Campus Central,Campus Central,agregacion,acceso,principal,D108: lag12 39.4 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-FILOSOFIA-A-D108,FILOA-2A-A55,Campus Central,Campus Central,agregacion,acceso,principal,D108: lag11 33.78 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-FILOSOFIA-B-D111,FILOB-2A-A57,Campus Central,Campus Central,agregacion,acceso,principal,D111: lag11 99.58 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-FILOSOFIA-B-D111,FILOB-1B-A58,Campus Central,Campus Central,agregacion,acceso,principal,D111: lag12 63.51 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-JURISPRUDENCIA-D110,JUR-0A-A59,Campus Central,Campus Central,agregacion,acceso,principal,D110: 1/1/1 11.47 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-JURISPRUDENCIA-D110,JUR-0A-A60,Campus Central,Campus Central,agregacion,acceso,principal,D110: 1/1/7 4.37 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-JURISPRUDENCIA-D110,JUR-1A-A61,Campus Central,Campus Central,agregacion,acceso,principal,D110: lag42 60.21 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-JURISPRUDENCIA-D110,JUR-1A-A62,Campus Central,Campus Central,agregacion,acceso,principal,D110: lag43 55.03 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-PSICOLOGIA-D125,PSIC-1A-A53,Campus Central,Campus Central,agregacion,acceso,principal,D125: lag21 126.27 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-PSICOLOGIA-D125,PSIC-2B-A54,Campus Central,Campus Central,agregacion,acceso,principal,D50: lag22 71.19 Mbps,,1000,estimada_1G_acceso_agregacion,True
+POST-1A-A64,POST-1A-A65,Campus Central,Campus Central,acceso,acceso,principal,A64: 1/1/50 34.23 Mbps,,1000,estimada_1G_acceso,True
+POST-1A-A65,POST-2A-A66,Campus Central,Campus Central,acceso,acceso,principal,A65: 1/1/48 2.67 Mbps,,1000,estimada_1G_acceso,True
+CC-ARQUITECTURA-D107,ARQ-0A-A85,Campus Central,Campus Central,agregacion,acceso,principal,D107: lag11 80.54 Mbps,,1000,estimada_1G_acceso_agregacion,True
+ARQ-0A-A85,ARQ-0A-A84,Campus Central,Campus Central,acceso,acceso,principal,A85: 1/1/51 2.94 Mbps,,1000,estimada_1G_acceso,True
+CC-ARQUITECTURA-D107,ARQ-0B-A87,Campus Central,Campus Central,agregacion,acceso,principal,D107: lag12 9.87 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ARQUITECTURA-D107,ARQ-1C-A86,Campus Central,Campus Central,agregacion,acceso,principal,D107: 1/1/3 9.98 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ARQUITECTURA-D107,ARQ-1C-A96,Campus Central,Campus Central,agregacion,acceso,principal,D107: lag13 51.55 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ARQUITECTURA-D107,ARQ-0D-A88,Campus Central,Campus Central,agregacion,acceso,principal,D107: lag14 47.14 Mbps,,1000,estimada_1G_acceso_agregacion,True
+ARQ-0D-A88,ARQ-0D-A89,Campus Central,Campus Central,acceso,acceso,principal,A88: 1/1/52 45.32 Mbps,,1000,estimada_1G_acceso,True
+CC-ARQUITECTURA-D107,ARQ-0D-A90,Campus Central,Campus Central,agregacion,acceso,principal,D107: lag15 2.96 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ARQUITECTURA-D107,ARQ-1E-A91,Campus Central,Campus Central,agregacion,acceso,principal,D107: lag16 96.32 Mbps,,1000,estimada_1G_acceso_agregacion,True
+ARQ-1E-A91,ARQ-1E-A92,Campus Central,Campus Central,acceso,acceso,principal,A91: 4/1/49 96.64 Mbps,,1000,estimada_1G_acceso,True
+CC-ARQUITECTURA-D107,ARQ-0G-A93-CEPAUC,Campus Central,Campus Central,agregacion,acceso,principal,D107: 1/1/13 3.53 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-QUIMICA-D109,QUI-1A-A83,Campus Central,Campus Central,agregacion,acceso,principal,D109: lag11 55.56 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-QUIMICA-D109,QUI-0A-A78,Campus Central,Campus Central,agregacion,acceso,respaldo,D109: lag12 0 bps,,1000,estimada_1G_acceso_agregacion,True
+CC-QUIMICA-D109,QUI-2A-A82,Campus Central,Campus Central,agregacion,acceso,principal,D109: lag13 2.67 Mbps,,1000,estimada_1G_acceso_agregacion,True
+QUI-2A-A82,QUI-2A-A81,Campus Central,Campus Central,acceso,acceso,principal,A81: 1/1/48 5.93 Kbps,,1000,estimada_1G_acceso,True
+CC-PROMAS-D31,PRO-1A-A73,Campus Central,Campus Central,agregacion,acceso,principal,D31: lag41 68.74 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-PROMAS-D31,CREDU-0B-A94,Campus Central,Campus Central,agregacion,acceso,principal,D31: 1/1/3 17.32 Mbps,,1000,estimada_1G_acceso_agregacion,True
+PRO-1A-A73,PRO-3A-A74,Campus Central,Campus Central,acceso,acceso,principal,,,1000,estimada_1G_acceso,True
+CC-BIBLIOTECA-D112,CCBIB-1A-A71,Campus Central,Campus Central,agregacion,acceso,principal,D112: lag11 189.65 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-BIBLIOTECA-D112,VIN-0A-A72,Campus Central,Campus Central,agregacion,acceso,principal,D112: 1/1/3 36.32 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-MONJAS-D126,MON-0A-A103,Campus Central,Campus Central,agregacion,acceso,principal,D126: lag63 3.82 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-MONJAS-D126,MON-0A-A104,Campus Central,Campus Central,agregacion,acceso,principal,D126: lag64 39.99 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-MONJAS-D126,MON-1C-A105,Campus Central,Campus Central,agregacion,acceso,principal,D126: lag67 2.76 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-MONJAS-D126,MON-1C-A106,Campus Central,Campus Central,agregacion,acceso,principal,D126: lag66 16.36 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-MONJAS-D126,MON-1B-A67,Campus Central,Campus Central,agregacion,acceso,principal,D126: lag62 36.31 Mbps,,1000,estimada_1G_acceso_agregacion,True
+MON-1B-A67,MON-1B-A68,Campus Central,Campus Central,acceso,acceso,principal,A67: 2/1/52 37.86 Mbps,,1000,estimada_1G_acceso,True
+CC-MONJAS-D126,ECOK3-0A-A63,Campus Central,Campus Central,agregacion,acceso,principal,D126: 1/1/9 32.03 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CC-ECONOMIA-D51,TECQUI-0A-A10,Campus Central,Campus Central,agregacion,acceso,principal,,,1000,estimada_1G_acceso_agregacion,True
+TECQUI-0A-A10,TECQUI-0A-A11,Campus Central,Campus Central,acceso,acceso,principal,,,1000,estimada_1G_acceso,True
+TECQUI-0A-A10,TECQUI-0A-A12,Campus Central,Campus Central,acceso,acceso,principal,A12: 1/1/50 7.6 Mbps,,1000,estimada_1G_acceso,True
+CCJ-CJURIDICO-D4,CCJ-1A-A10,Campus Central,Campus Central,agregacion,acceso,principal,D4: 1/1/51 39.04 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CCJ-CJURIDICO-D4,CCJ-1A-A11,Campus Central,Campus Central,agregacion,acceso,principal,D4: 1/1/52 1.56 Mbps,,1000,estimada_1G_acceso_agregacion,True
+DT-0A-C12,DT-0A-C13,Campus Balzay,Campus Balzay,core,core,principal,C12: lag256 243.03 Mbps,,10000,estimada_10G_troncal,False
+DT-0A-C12,BAL-AUL1-D4,Campus Balzay,Campus Balzay,core,agregacion,principal,C12: lag18 1.64 Mbps,,10000,estimada_10G_troncal,False
+DT-0A-C13,BAL-AUL1-D4,Campus Balzay,Campus Balzay,core,agregacion,secundario,C13: lag18 171.71 Mbps,,10000,estimada_10G_troncal,False
+DT-0A-C12,BAL-AUL2-D1,Campus Balzay,Campus Balzay,core,agregacion,principal,C12: lag15 21.06 Mbps,,10000,estimada_10G_troncal,False
+DT-0A-C13,BAL-AUL2-D1,Campus Balzay,Campus Balzay,core,agregacion,secundario,C13: lag15 145.25 Mbps,,10000,estimada_10G_troncal,False
+DT-0A-C12,BAL-CENTEC-D2,Campus Balzay,Campus Balzay,core,agregacion,principal,C12: lag16 17.36 Mbps,,10000,estimada_10G_troncal,False
+DT-0A-C13,BAL-CENTEC-D2,Campus Balzay,Campus Balzay,core,agregacion,secundario,C13: lag16 58.16 Mbps,,10000,estimada_10G_troncal,False
+DT-0A-C12,CB-EADMI-D6,Campus Balzay,Campus Balzay,core,agregacion,principal,C12: lag17 7.18 Mbps,,10000,estimada_10G_troncal,False
+DT-0A-C13,CB-EADMI-D6,Campus Balzay,Campus Balzay,core,agregacion,secundario,C13: lag17 76.66 Mbps,,10000,estimada_10G_troncal,False
+BAL-AUL2-D1,MICRORED-1A-A109,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: int1/1/3 11.02 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-CENTEC-D2,CEA-0A-A108,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D2: lag70 4.99 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-CENTEC-D2,VLIR-0A-A107,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D2: int1/1/3 13.75 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CB-EADMI-D6,BAL-EADM-D3,Campus Balzay,Campus Balzay,agregacion,agregacion,principal,D3: int 1/1/6 19.63 Mbps,,10000,estimada_10G_agregacion,True
+BAL-AUL1-D4,AUL1-2A-A110,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D4: 1/1/1 65.9 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL1-D4,AUL1-2A-A111,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D4: 1/1/2 77.62 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL1-D4,AUL1-3A-A112,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D4: 1/1/3 29.78 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL1-D4,AUL1-3A-A104,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D4: 1/1/4 84.67 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL2-D1,AUL2-0A-A106,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: lag30 68.5 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL2-D1,AUL2-0A-A122,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: lag31 1.22 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL2-D1,AUL2-0A-A121,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: lag32 81.71 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL2-D1,AUL2-0A-A119,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: lag33 1.33 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL2-D1,AUL2-0A-A118,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: lag34 2.69 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL2-D1,AUL2-0A-A120,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: lag35 5.03 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL2-D1,AUL2-0A-A123,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: lag36 1.35 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL2-D1,AUL2-01A-A124-SUBLAB2,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: 1/1/17 25.46 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-AUL2-D1,AUL2-01A-A24-SUB,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D1: 1/1/22 78.4 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-CENTEC-D2,CTBLOQ1-0A-A101,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D2: lag60 5.65 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-CENTEC-D2,CTBLOQ2-0A-A102,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D2: lag50 22.29 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-CENTEC-D2,CTBLOQ3-0A-A103,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D2: lag40 12.91 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CB-EADMI-D6,EA-1A-A115,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D3: lag100 50.53 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CB-EADMI-D6,EA-0A-A114,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D3: lag90 20.91 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CB-EADMI-D6,EA-1A-A116,Campus Balzay,Campus Balzay,agregacion,acceso,principal,D3: int1/1/5 1.86 Mbps,,1000,estimada_1G_acceso_agregacion,True
+BAL-EADM-D3,QUIN-1A-A117,Campus Balzay,Campus Balzay,agregacion,acceso,principal,BAL-EADM-D3: int 1/1/6 54.06 Mbps,,1000,estimada_1G_acceso_agregacion,True
+QUIN-1A-A117,QUIN-1A-A128,Campus Balzay,Campus Balzay,acceso,acceso,principal,,,1000,estimada_1G_acceso,True
+AGRPRI-1A-D10,TALL-0A-A12,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: 1/1/3 10.56 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,DAN-1A-A11,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: 1/1/4 10.28 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,LABMAC-1A-A13,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: lag110 19.07 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,ART-0A-A15,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: lag120 40.41 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,BLOQUED-0A-A21,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: lag190 9.74 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,BIB-2A-A16,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: lag130 68.33 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,LAC-0A-A17,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: lag140 11.7 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,LAB-1A-A18,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: lag150 17.54 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,AGRPRI-1A-A19,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: lag160 30.48 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,ANF-0A-A14,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: 1/1/19 6.44 Mbps,,1000,estimada_1G_acceso_agregacion,True
+AGRPRI-1A-D10,CEN-1A-A20,Campus Yanuncay,Campus Yanuncay,agregacion,acceso,principal,D10: lag180 5.32 Mbps,,1000,estimada_1G_acceso_agregacion,True
+HOS-0A-D05,HOS-0A-A10,Campus Hospitalidad,Campus Hospitalidad,agregacion,acceso,principal,D5: lag60 26.42 Mbps,,1000,estimada_1G_acceso_agregacion,True
+HOS-0A-D05,HOS-2A-A11,Campus Hospitalidad,Campus Hospitalidad,agregacion,acceso,principal,D5: lag61 91.33 Mbps,,1000,estimada_1G_acceso_agregacion,True
+HOS-0A-D05,HOS-1A-A12,Campus Hospitalidad,Campus Hospitalidad,agregacion,acceso,principal,D5: lag62 50.77 Mbps,,1000,estimada_1G_acceso_agregacion,True
+HOS-0A-D05,HOS-0A-A13,Campus Hospitalidad,Campus Hospitalidad,agregacion,acceso,principal,D5: 1/1/7 21.7 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CPAR-C10,ROUTER-CAMPUS-HUAYNA-CAPAC,Campus Paraiso,Campus Paraiso,core,wan,principal,C10: 1/1/25 Link-to-VPLS-CEDIA 317.83 Mbps,,10000,estimada_10G_WAN_MPLS,True
+CPAR-C10,CP-EADMINA1-D6,Campus Paraiso,Campus Paraiso,core,agregacion,principal,C10: lag211 Con Redundancia 76.7 Mbps,,10000,estimada_10G_troncal,True
+CPAR-C10,CP-INVESTIGACION-D5,Campus Paraiso,Campus Paraiso,core,agregacion,principal,C10: lag205 84.7 Mbps,,10000,estimada_10G_troncal,True
+CPAR-C10,CP-ENFERMERIA-D1,Campus Paraiso,Campus Paraiso,core,agregacion,principal,C10: lag201 147.9 Mbps,,10000,estimada_10G_troncal,True
+CPAR-C10,CP-TECMEDICO-D3,Campus Paraiso,Campus Paraiso,core,agregacion,principal,C10: lag203 113.56 Mbps,,10000,estimada_10G_troncal,True
+CPAR-C10,CP-POSGRADO-D2,Campus Paraiso,Campus Paraiso,core,agregacion,principal,C10: lag202 40.79 Mbps,,10000,estimada_10G_troncal,True
+CPAR-C10,CP-ODONTOLOGIA-D4,Campus Paraiso,Campus Paraiso,core,agregacion,principal,C10: lag204 216.33 Mbps,,10000,estimada_10G_troncal,True
+CP-EADMINA1-D6,MEDADM-1A-A11,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D6: lag11 26.87 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-EADMINA1-D6,MEDADM-1B-A12,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D6: lag12 1.77 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-EADMINA1-D6,MEDADM-1C-A13,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D6: lag13 1.77 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-EADMINA1-D6,MEDADM-1D-A14,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D6: lag14 20.96 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-EADMINA1-D6,MEDADM-1E-A15,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D6: lag15 1.77 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-EADMINA1-D6,MEDADM-0F-A16,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D6: lag16 35.48 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-EADMINA1-D6,MEDADM-0G-A17,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D6: lag17 2.33 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-EADMINA1-D6,MEDADM-1H-A18,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D6: lag18 11.62 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-INVESTIGACION-D5,INV-1A-A61,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D5: lag61 1.65 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-INVESTIGACION-D5,INV-1A-A161,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D5: lag64 51.44 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-INVESTIGACION-D5,CENDIA-0A-A19,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D5: lag63 6.65 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-INVESTIGACION-D5,INV-1B-A62,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D5: lag62 61.87 Mbps,,1000,estimada_1G_acceso_agregacion,True
+INV-1B-A62,INV-1B-A162,Campus Paraiso,Campus Paraiso,acceso,acceso,principal,A62:lag110 54.09 Mbps,,1000,estimada_1G_acceso,True
+CP-ODONTOLOGIA-D4,ODO-1A-A151,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D4: lag54 22.75 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-ODONTOLOGIA-D4,ODO-1A-A51,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D4: lag51 2.82 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-ODONTOLOGIA-D4,ODO-0B-A52,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D4: lag52 14.98 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-ODONTOLOGIA-D4,ODO-0C-A53,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D4: lag53 18.33 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-ODONTOLOGIA-D4,ODO-0C-A154,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D4: 1/1/9 53.04 Mbps,,1000,estimada_1G_acceso_agregacion,True
+ODO-0B-A52,ODO-0B-A152,Campus Paraiso,Campus Paraiso,acceso,acceso,principal,A52: 1/1/52 11.77 Mbps,,1000,estimada_1G_acceso,True
+ODO-0C-A53,ODO-0C-A153,Campus Paraiso,Campus Paraiso,acceso,acceso,principal,A53: lag110 14.26 Mbps,,1000,estimada_1G_acceso,True
+ODO-0C-A53,ODO-0C-A54,Campus Paraiso,Campus Paraiso,acceso,acceso,principal,A53: lag111 1.56 Mbps,,1000,estimada_1G_acceso,True
+CP-TECMEDICO-D3,TECMED-1A-A41,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D3: lag41 38.04 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-TECMEDICO-D3,TECMED-0B-A42,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D3: lag42 29.42 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-TECMEDICO-D3,TECMED-2C-A43,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D3: lag43 53.8 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-TECMEDICO-D3,TECMED-3D-A44,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D3: lag44 54.63 Mbps,,1000,estimada_1G_acceso_agregacion,True
+TECMED-1A-A41,TECMED-1A-A141,Campus Paraiso,Campus Paraiso,acceso,acceso,principal,A41: lag110 21.7 Mbps,,1000,estimada_1G_acceso,True
+CP-POSGRADO-D2,POS-0A-A31,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D2: lag31 1.87 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-POSGRADO-D2,POS-1B-A32,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D2: lag32 7.82 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-POSGRADO-D2,POS-2C-A33,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D2: lag33 13.57 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-POSGRADO-D2,POSLAB-0D-A34,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D2: lag34 16.6 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-POSGRADO-D2,POS-0A-A131,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D2: lag35 9.31 Mbps,,1000,estimada_1G_acceso_agregacion,True
+POS-2C-A33,POS-2C-A133,Campus Paraiso,Campus Paraiso,acceso,acceso,principal,A33: lag110 8.38 Mbps,,1000,estimada_1G_acceso,True
+CP-ENFERMERIA-D1,ENF-2B-A22,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D1: lag12 48.66 Mbps,,1000,estimada_1G_acceso_agregacion,True
+CP-ENFERMERIA-D1,ENF-3A-A21,Campus Paraiso,Campus Paraiso,agregacion,acceso,principal,D1: lag11 21.09 Mbps,,1000,estimada_1G_acceso_agregacion,True
+ENF-2B-A22,ENF-2B-A122,Campus Paraiso,Campus Paraiso,acceso,acceso,principal,A22: 1/1/52 51.99 Mbps,,1000,estimada_1G_acceso,True
+INTERNET-MPLS,ROUTER-CAMPUS-HUAYNA-CAPAC,Nube MPLS,Campus Paraiso,wan,wan,wan,Trafico MPLS 10 Gbps,10000.0,10000,explicita,False
+INTERNET-MPLS,ROUTER-CAMPUS-YANUNCAY,Nube MPLS,Campus Yanuncay,wan,wan,wan,Trafico MPLS 10 Gbps,10000.0,10000,explicita,False
+ROUTER-CAMPUS-HUAYNA-CAPAC,ROUTER-CAMPUS-PARAISO,Campus Paraiso,Campus Paraiso,wan,wan,wan,Trafico MPLS 10 Gbps,10000.0,10000,explicita,False
+INTERNET-MPLS,PE1-BALZAY,Nube MPLS,Campus Balzay,wan,wan,wan,Trafico MPLS 10 Gbps,10000.0,10000,explicita,False
+INTERNET-MPLS,PE2-BALZAY,Nube MPLS,Campus Balzay,wan,wan,wan,Trafico MPLS 10 Gbps,10000.0,10000,explicita,False
+INTERNET-MPLS,PE1-CENTRAL,Nube MPLS,Campus Central,wan,wan,wan,Trafico MPLS 10 Gbps,10000.0,10000,explicita,False
+INTERNET-MPLS,PE2-CENTRAL,Nube MPLS,Campus Central,wan,wan,wan,Trafico MPLS 10 Gbps,10000.0,10000,explicita,False
+ROUTER-CAMPUS-YANUNCAY,PE1-CENTRAL,Campus Yanuncay,Campus Central,wan,wan,wan,Trafico MPLS 10 Gbps,10000.0,10000,explicita,False
+ROUTER-CAMPUS-PARAISO,PE2-CENTRAL,Campus Paraiso,Campus Central,wan,wan,wan,Trafico MPLS 10 Gbps,10000.0,10000,explicita,False
+PE1-BALZAY,PE2-CENTRAL,Campus Balzay,Campus Central,wan,wan,wan,Fibra oscura MPLS 10 Gbps,10000.0,10000,explicita,False
+PE2-BALZAY,PE1-CENTRAL,Campus Balzay,Campus Central,wan,wan,wan,Fibra oscura MPLS 10 Gbps,10000.0,10000,explicita,False
+PE1-BALZAY,PE2-BALZAY,Campus Balzay,Campus Balzay,wan,wan,wan,,,10000,estimada_10G_WAN_MPLS,False
+PE1-CENTRAL,PE2-CENTRAL,Campus Central,Campus Central,wan,wan,wan,,,10000,estimada_10G_WAN_MPLS,False
+PE1-BALZAY,FORTIGATE-1800F-BALZAY,Campus Balzay,Campus Balzay,wan,interconexion,wan,Trafico hacia internet L3 10 Gbps,10000.0,10000,explicita,False
+PE2-BALZAY,FORTIGATE-1800F-BALZAY,Campus Balzay,Campus Balzay,wan,interconexion,wan,Trafico hacia internet L3 10 Gbps,10000.0,10000,explicita,False
+PE1-CENTRAL,FORTIGATE-1800F-CENTRAL,Campus Central,Campus Central,wan,interconexion,wan,Trafico hacia internet L3 10 Gbps,10000.0,10000,explicita,False
+PE2-CENTRAL,FORTIGATE-1800F-CENTRAL,Campus Central,Campus Central,wan,interconexion,wan,Trafico hacia internet L3 10 Gbps,10000.0,10000,explicita,False
+FORTIGATE-1800F-BALZAY,DT-0A-C12,Campus Balzay,Campus Balzay,interconexion,core,wan,LAG 2x10G red LAN L3 10 Gbps,10000.0,10000,explicita,False
+FORTIGATE-1800F-BALZAY,DT-0A-C13,Campus Balzay,Campus Balzay,interconexion,core,wan,LAG 2x10G red LAN L3 10 Gbps,10000.0,10000,explicita,False
+FORTIGATE-1800F-CENTRAL,DATCC-2A-C2,Campus Central,Campus Central,interconexion,core,wan,LAG 2x10G red LAN L3 10 Gbps,10000.0,10000,explicita,False
+FORTIGATE-1800F-CENTRAL,DATCC-2A-C3,Campus Central,Campus Central,interconexion,core,wan,LAG 2x10G red LAN L3 10 Gbps,10000.0,10000,explicita,False
+PE2-BALZAY,DT-0A-C13,Campus Balzay,Campus Balzay,wan,core,wan,MPLS L2 2x10 Gbps Trafico Data Center L2,20000.0,20000,explicita,False
+PE2-CENTRAL,DATCC-2A-C3,Campus Central,Campus Central,wan,core,wan,MPLS L2 2x10 Gbps Trafico Data Center L2,20000.0,20000,explicita,False
+FORTIGATE-1800F-BALZAY,FORTIGATE-1800F-CENTRAL,Campus Balzay,Campus Central,interconexion,interconexion,wan,HA de Firewalls Perimetrales L2 1 Gbps,1000.0,1000,explicita,False
+DT-0A-C12,ROUTER-L2TP-BALZAY,Campus Balzay,Campus Balzay,core,wan,wan,L2TP 1 Gbps backup,1000.0,1000,explicita,False
+DT-0A-C13,ROUTER-L2TP-BALZAY,Campus Balzay,Campus Balzay,core,wan,wan,L2TP 1 Gbps backup,1000.0,1000,explicita,False
+ROUTER-L2TP-BALZAY,ROUTER-CAMPUS-MUSEO,Campus Balzay,Sede Museo,wan,wan,wan,L2TP 1 Gbps backup,1000.0,1000,explicita,False
+ROUTER-L2TP-BALZAY,ROUTER-CAMPUS-CENTRO-HISTORICO,Campus Balzay,Sede Centro Historico,wan,wan,wan,L2TP 1 Gbps backup,1000.0,1000,explicita,False
+ROUTER-CAMPUS-MUSEO,SW-ARUBA-MUSEO,Sede Museo,Sede Museo,wan,acceso,wan,,,10000,estimada_10G_WAN_MPLS,False
+SW-ARUBA-MUSEO,DATCC-2A-C2,Sede Museo,Campus Central,acceso,core,wan,Fibra oscura red LAN L3 10 Gbps,10000.0,10000,explicita,False
+ROUTER-CAMPUS-CENTRO-HISTORICO,SW-ARUBA-CENTRO-HISTORICO,Sede Centro Historico,Sede Centro Historico,wan,acceso,wan,,,10000,estimada_10G_WAN_MPLS,False
+SW-ARUBA-CENTRO-HISTORICO,DATCC-2A-C3,Sede Centro Historico,Campus Central,acceso,core,wan,Fibra oscura red LAN L3 10 Gbps,10000.0,10000,explicita,False

@@ -1,0 +1,7 @@
+par_de_capas,cantidad
+acceso <-> agregacion,111
+acceso <-> acceso,19
+agregacion <-> core,6
+agregacion <-> wan,3
+agregacion <-> agregacion,1
+core <-> wan,1

@@ -1,0 +1,21 @@
+diseno,campus,flujo_maximo_mbps
+Base,Campus Central,44000.0
+Base,Campus Balzay,23000.0
+Base,Campus Paraiso,10000.0
+Base,Campus Yanuncay,10000.0
+Base,Campus Hospitalidad,4000.0
+Propuesta diagnostica,Campus Central,44000.0
+Propuesta diagnostica,Campus Balzay,23000.0
+Propuesta diagnostica,Campus Paraiso,20000.0
+Propuesta diagnostica,Campus Yanuncay,11000.0
+Propuesta diagnostica,Campus Hospitalidad,4000.0
+Alternativa grado ingenuo,Campus Central,45000.0
+Alternativa grado ingenuo,Campus Balzay,23000.0
+Alternativa grado ingenuo,Campus Paraiso,20000.0
+Alternativa grado ingenuo,Campus Yanuncay,11000.0
+Alternativa grado ingenuo,Campus Hospitalidad,4000.0
+Alternativa intermediacion ingenua,Campus Central,45000.0
+Alternativa intermediacion ingenua,Campus Balzay,23000.0
+Alternativa intermediacion ingenua,Campus Paraiso,20000.0
+Alternativa intermediacion ingenua,Campus Yanuncay,10000.0
+Alternativa intermediacion ingenua,Campus Hospitalidad,4000.0

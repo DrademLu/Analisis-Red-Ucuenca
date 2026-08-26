@@ -1,0 +1,37 @@
+campus,desde_S,hacia_T,capacidad_mbps,rol,capa_u,capa_v,campus_u,campus_v,label,es_puente_P1
+Campus Central,ROUTER-CAMPUS-CENTRO-HISTORICO,ROUTER-L2TP-BALZAY,1000,wan,wan,wan,Campus Balzay,Sede Centro Historico,L2TP 1 Gbps backup,False
+Campus Central,ROUTER-CAMPUS-MUSEO,ROUTER-L2TP-BALZAY,1000,wan,wan,wan,Campus Balzay,Sede Museo,L2TP 1 Gbps backup,False
+Campus Central,CCJ-1A-A10,CCJ-CJURIDICO-D4,1000,principal,agregacion,acceso,Campus Central,Campus Central,D4: 1/1/51 39.04 Mbps,True
+Campus Central,CCJ-1A-A11,CCJ-CJURIDICO-D4,1000,principal,agregacion,acceso,Campus Central,Campus Central,D4: 1/1/52 1.56 Mbps,True
+Campus Central,DATCC-2A-C2,FORTIGATE-1800F-CENTRAL,10000,wan,interconexion,core,Campus Central,Campus Central,LAG 2x10G red LAN L3 10 Gbps,False
+Campus Central,DATCC-2A-C3,FORTIGATE-1800F-CENTRAL,10000,wan,interconexion,core,Campus Central,Campus Central,LAG 2x10G red LAN L3 10 Gbps,False
+Campus Central,DATCC-2A-C3,PE2-CENTRAL,20000,wan,wan,core,Campus Central,Campus Central,MPLS L2 2x10 Gbps Trafico Data Center L2,False
+Campus Balzay,AUL1-2A-A110,BAL-AUL1-D4,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D4: 1/1/1 65.9 Mbps,True
+Campus Balzay,AUL1-2A-A111,BAL-AUL1-D4,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D4: 1/1/2 77.62 Mbps,True
+Campus Balzay,AUL1-3A-A104,BAL-AUL1-D4,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D4: 1/1/4 84.67 Mbps,True
+Campus Balzay,AUL1-3A-A112,BAL-AUL1-D4,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D4: 1/1/3 29.78 Mbps,True
+Campus Balzay,AUL2-01A-A124-SUBLAB2,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: 1/1/17 25.46 Mbps,True
+Campus Balzay,AUL2-01A-A24-SUB,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: 1/1/22 78.4 Mbps,True
+Campus Balzay,AUL2-0A-A106,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: lag30 68.5 Mbps,True
+Campus Balzay,AUL2-0A-A118,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: lag34 2.69 Mbps,True
+Campus Balzay,AUL2-0A-A119,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: lag33 1.33 Mbps,True
+Campus Balzay,AUL2-0A-A120,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: lag35 5.03 Mbps,True
+Campus Balzay,AUL2-0A-A121,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: lag32 81.71 Mbps,True
+Campus Balzay,AUL2-0A-A122,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: lag31 1.22 Mbps,True
+Campus Balzay,AUL2-0A-A123,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: lag36 1.35 Mbps,True
+Campus Balzay,QUIN-1A-A117,BAL-EADM-D3,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,BAL-EADM-D3: int 1/1/6 54.06 Mbps,True
+Campus Balzay,VLIR-0A-A107,BAL-CENTEC-D2,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D2: int1/1/3 13.75 Mbps,True
+Campus Balzay,CEA-0A-A108,BAL-CENTEC-D2,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D2: lag70 4.99 Mbps,True
+Campus Balzay,CTBLOQ1-0A-A101,BAL-CENTEC-D2,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D2: lag60 5.65 Mbps,True
+Campus Balzay,CTBLOQ2-0A-A102,BAL-CENTEC-D2,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D2: lag50 22.29 Mbps,True
+Campus Balzay,CTBLOQ3-0A-A103,BAL-CENTEC-D2,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D2: lag40 12.91 Mbps,True
+Campus Balzay,EA-0A-A114,CB-EADMI-D6,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D3: lag90 20.91 Mbps,True
+Campus Balzay,EA-1A-A115,CB-EADMI-D6,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D3: lag100 50.53 Mbps,True
+Campus Balzay,EA-1A-A116,CB-EADMI-D6,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D3: int1/1/5 1.86 Mbps,True
+Campus Balzay,MICRORED-1A-A109,BAL-AUL2-D1,1000,principal,agregacion,acceso,Campus Balzay,Campus Balzay,D1: int1/1/3 11.02 Mbps,True
+Campus Paraiso,CPAR-C10,ROUTER-CAMPUS-HUAYNA-CAPAC,10000,principal,core,wan,Campus Paraiso,Campus Paraiso,C10: 1/1/25 Link-to-VPLS-CEDIA 317.83 Mbps,True
+Campus Yanuncay,AGRPRI-1A-D10,ROUTER-CAMPUS-YANUNCAY,10000,inferido,wan,agregacion,Campus Yanuncay,Campus Yanuncay,"Uplink MPLS del campus (inferido del informe, no visible en los diagramas)",True
+Campus Hospitalidad,HOS-1A-A12,HOS-0A-D05,1000,principal,agregacion,acceso,Campus Hospitalidad,Campus Hospitalidad,D5: lag62 50.77 Mbps,True
+Campus Hospitalidad,HOS-2A-A11,HOS-0A-D05,1000,principal,agregacion,acceso,Campus Hospitalidad,Campus Hospitalidad,D5: lag61 91.33 Mbps,True
+Campus Hospitalidad,HOS-0A-A10,HOS-0A-D05,1000,principal,agregacion,acceso,Campus Hospitalidad,Campus Hospitalidad,D5: lag60 26.42 Mbps,True
+Campus Hospitalidad,HOS-0A-A13,HOS-0A-D05,1000,principal,agregacion,acceso,Campus Hospitalidad,Campus Hospitalidad,D5: 1/1/7 21.7 Mbps,True

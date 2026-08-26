@@ -1,0 +1,2 @@
+demanda_central_mbps,demanda_balzay_mbps,demanda_total_mbps,costo_total,costo_medio_por_mbps,flujo_por_roles
+5000,5000,10000,41000,4.1,inferido:2000; principal:18000; wan:21000

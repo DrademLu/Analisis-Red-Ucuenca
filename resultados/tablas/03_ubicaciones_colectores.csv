@@ -1,0 +1,45 @@
+problema,metodo,p,nodo,campus,capa
+p-mediana,voraz,1,INTERNET-MPLS,Nube MPLS,wan
+p-mediana,MILP exacto,1,INTERNET-MPLS,Nube MPLS,wan
+p-centro,voraz,1,INTERNET-MPLS,Nube MPLS,wan
+p-centro,MILP exacto,1,INTERNET-MPLS,Nube MPLS,wan
+p-mediana,voraz,2,INTERNET-MPLS,Nube MPLS,wan
+p-mediana,voraz,2,DATCC-2A-C2,Campus Central,core
+p-mediana,MILP exacto,2,CPAR-C10,Campus Paraiso,core
+p-mediana,MILP exacto,2,DATCC-2A-C3,Campus Central,core
+p-centro,voraz,2,INTERNET-MPLS,Nube MPLS,wan
+p-centro,voraz,2,DATCC-2A-C2,Campus Central,core
+p-centro,MILP exacto,2,DATCC-2A-C2,Campus Central,core
+p-centro,MILP exacto,2,INTERNET-MPLS,Nube MPLS,wan
+p-mediana,voraz,3,INTERNET-MPLS,Nube MPLS,wan
+p-mediana,voraz,3,DATCC-2A-C2,Campus Central,core
+p-mediana,voraz,3,CPAR-C10,Campus Paraiso,core
+p-mediana,MILP exacto,3,CPAR-C10,Campus Paraiso,core
+p-mediana,MILP exacto,3,DATCC-2A-C3,Campus Central,core
+p-mediana,MILP exacto,3,DT-0A-C13,Campus Balzay,core
+p-centro,voraz,3,INTERNET-MPLS,Nube MPLS,wan
+p-centro,voraz,3,DATCC-2A-C2,Campus Central,core
+p-centro,voraz,3,DT-0A-C12,Campus Balzay,core
+p-centro,MILP exacto,3,DATCC-2A-C3,Campus Central,core
+p-centro,MILP exacto,3,DT-0A-C13,Campus Balzay,core
+p-centro,MILP exacto,3,ROUTER-CAMPUS-HUAYNA-CAPAC,Campus Paraiso,wan
+p-mediana,voraz,5,INTERNET-MPLS,Nube MPLS,wan
+p-mediana,voraz,5,DATCC-2A-C2,Campus Central,core
+p-mediana,voraz,5,CPAR-C10,Campus Paraiso,core
+p-mediana,voraz,5,DT-0A-C12,Campus Balzay,core
+p-mediana,voraz,5,AGRPRI-1A-D10,Campus Yanuncay,agregacion
+p-mediana,MILP exacto,5,AGRPRI-1A-D10,Campus Yanuncay,agregacion
+p-mediana,MILP exacto,5,CPAR-C10,Campus Paraiso,core
+p-mediana,MILP exacto,5,DATCC-2A-C2,Campus Central,core
+p-mediana,MILP exacto,5,DT-0A-C13,Campus Balzay,core
+p-mediana,MILP exacto,5,INTERNET-MPLS,Nube MPLS,wan
+p-centro,voraz,5,INTERNET-MPLS,Nube MPLS,wan
+p-centro,voraz,5,DATCC-2A-C2,Campus Central,core
+p-centro,voraz,5,DT-0A-C12,Campus Balzay,core
+p-centro,voraz,5,CPAR-C10,Campus Paraiso,core
+p-centro,voraz,5,AGRPRI-1A-D10,Campus Yanuncay,agregacion
+p-centro,MILP exacto,5,CB-EADMI-D6,Campus Balzay,agregacion
+p-centro,MILP exacto,5,CPAR-C10,Campus Paraiso,core
+p-centro,MILP exacto,5,DATCC-2A-C3,Campus Central,core
+p-centro,MILP exacto,5,POST-1A-A65,Campus Central,acceso
+p-centro,MILP exacto,5,ROUTER-CAMPUS-YANUNCAY,Campus Yanuncay,wan

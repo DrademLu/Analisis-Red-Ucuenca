@@ -1,0 +1,4 @@
+tau,trigger,campus,capa,fallos_totales,fraccion_afectada,generaciones,supera_20pct
+0.0,CCJ-CJURIDICO-D4,Campus Central,agregacion,62,0.3502824858757062,3,True
+0.035,ROUTER-CAMPUS-CENTRO-HISTORICO,Sede Centro Historico,wan,38,0.21468926553672316,4,True
+0.04,DATCC-2A-C3,Campus Central,core,13,0.07344632768361582,3,False

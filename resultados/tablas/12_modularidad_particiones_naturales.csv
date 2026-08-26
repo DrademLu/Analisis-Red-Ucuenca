@@ -1,0 +1,4 @@
+particion,n_grupos,Q
+Louvain principal,14,0.7631807879856228
+Campus,8,0.6197774776218494
+Campus + capa,24,0.025583205512694315

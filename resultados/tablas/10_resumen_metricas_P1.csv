@@ -1,0 +1,15 @@
+metrica,valor
+nodos,177.0
+aristas,209.0
+densidad,0.013418079096045197
+componentes_conexas,1.0
+tamano_mayor_componente,177.0
+grado_medio,2.361581920903955
+grado_minimo,1.0
+grado_maximo,17.0
+clustering_medio,0.03432903550052105
+diametro,11.0
+distancia_media,5.830380071905496
+asortatividad_grado,-0.1468205846291963
+puntos_articulacion,47.0
+puentes,141.0
