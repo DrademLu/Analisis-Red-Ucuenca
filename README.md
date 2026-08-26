@@ -98,7 +98,8 @@ el resto del pipeline.
 
 ## Integrantes
 
-Luis Antonio Andrade Matute
+Luis Antonio Andrade Matute 
+
 Claudia Estefanía Padilla Guamán
 
 Maestría en Ciencias de la Ingeniería Eléctrica — Módulo 1217, Redes
