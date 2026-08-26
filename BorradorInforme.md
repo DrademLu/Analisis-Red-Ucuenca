@@ -3,8 +3,8 @@
 
 **Maestría en Ciencias de la Ingeniería Eléctrica — Módulo 1217, Redes Complejas, IV Cohorte**
 **Docente:** Dr. Fabián Astudillo-Salinas
-**Integrantes:** [Nombre completo — correo@ucuenca.edu.ec] · [Nombre completo — correo@ucuenca.edu.ec] · [Nombre completo — correo@ucuenca.edu.ec]
-**Fecha:** [dd de mes de 2026]
+**Integrantes:** [Luis Andrade — luis.andradem11@ucuenca.edu.ec] · [Claudia Padilla— @ucuenca.edu.ec] 
+**Fecha:** [26 de Agosto de 2026]
 **Repositorio:** [enlace al repositorio de GitHub]
 
 > **Nota de elaboración.** El contenido técnico de las cinco fases (P1–P11), el resumen ejecutivo y las conclusiones/limitaciones ya están redactados y verificados contra los resultados generados en `red_ucuenca_fase5/`. Quedan solo tareas manuales antes de entregar: (1) completar la portada con los nombres y correos institucionales reales de todos los integrantes y el enlace al repositorio; (2) medir la extensión real una vez exportado a PDF — el enunciado exige **máximo 30 páginas sin contar anexos**, y este documento en Markdown es más largo que eso en su forma actual, por lo que varias tablas extensas y explicaciones deberán condensarse o moverse a los Anexos antes de la conversión final; (3) revisar formato APA en todas las citas; (4) añadir a la sección de Anexos las tablas y figuras extensas de las Fases 3–5 (actualmente solo están completas las de la Fase 1); y (5) que el docente ejecute los *scripts* de `scripts/` para confirmar reproducibilidad de punta a punta antes de la entrega (sección 8.1 del enunciado: un resultado que no se regenera ejecutando el repositorio se califica sobre cero).
