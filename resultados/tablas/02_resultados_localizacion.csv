@@ -1,17 +1,17 @@
 problema,metodo,p,distancia_media,distancia_maxima,suma_distancias,tiempo_solver_s,estado_solver,instalaciones
 p-mediana,voraz,1,3.6045197740112993,6.0,638.0,,heuristica,INTERNET-MPLS
-p-mediana,MILP exacto,1,3.6045197740112993,6.0,638.0,7.6364370000083,Optimization terminated successfully. (HiGHS Status 7: Optimal),INTERNET-MPLS
+p-mediana,MILP exacto,1,3.6045197740112993,6.0,638.0,7.222624100002577,Optimization terminated successfully. (HiGHS Status 7: Optimal),INTERNET-MPLS
 p-centro,voraz,1,3.6045197740112993,6.0,638.0,,heuristica,INTERNET-MPLS
-p-centro,MILP exacto,1,3.6045197740112993,6.0,638.0,12.293071899999632,fase1: Optimization terminated successfully. (HiGHS Status 7: Optimal); fase2: Optimization terminated successfully. (HiGHS Status 7: Optimal),INTERNET-MPLS
+p-centro,MILP exacto,1,3.6045197740112993,6.0,638.0,12.053977600000508,fase1: Optimization terminated successfully. (HiGHS Status 7: Optimal); fase2: Optimization terminated successfully. (HiGHS Status 7: Optimal),INTERNET-MPLS
 p-mediana,voraz,2,2.7796610169491527,6.0,492.0,,heuristica,INTERNET-MPLS | DATCC-2A-C2
-p-mediana,MILP exacto,2,2.7457627118644066,7.0,486.0,1.1317661000066437,Optimization terminated successfully. (HiGHS Status 7: Optimal),CPAR-C10 | DATCC-2A-C3
+p-mediana,MILP exacto,2,2.7457627118644066,7.0,486.0,1.0880288999978802,Optimization terminated successfully. (HiGHS Status 7: Optimal),CPAR-C10 | DATCC-2A-C3
 p-centro,voraz,2,2.7796610169491527,6.0,492.0,,heuristica,INTERNET-MPLS | DATCC-2A-C2
-p-centro,MILP exacto,2,2.7796610169491527,6.0,492.0,9.228418899991084,fase1: Optimization terminated successfully. (HiGHS Status 7: Optimal); fase2: Optimization terminated successfully. (HiGHS Status 7: Optimal),DATCC-2A-C2 | INTERNET-MPLS
+p-centro,MILP exacto,2,2.7796610169491527,6.0,492.0,9.0263352999973,fase1: Optimization terminated successfully. (HiGHS Status 7: Optimal); fase2: Optimization terminated successfully. (HiGHS Status 7: Optimal),DATCC-2A-C2 | INTERNET-MPLS
 p-mediana,voraz,3,2.305084745762712,6.0,408.0,,heuristica,INTERNET-MPLS | DATCC-2A-C2 | CPAR-C10
-p-mediana,MILP exacto,3,2.1920903954802258,5.0,388.0,1.0118972999916878,Optimization terminated successfully. (HiGHS Status 7: Optimal),CPAR-C10 | DATCC-2A-C3 | DT-0A-C13
+p-mediana,MILP exacto,3,2.1920903954802258,5.0,388.0,0.9738997000022209,Optimization terminated successfully. (HiGHS Status 7: Optimal),CPAR-C10 | DATCC-2A-C3 | DT-0A-C13
 p-centro,voraz,3,2.406779661016949,5.0,426.0,,heuristica,INTERNET-MPLS | DATCC-2A-C2 | DT-0A-C12
-p-centro,MILP exacto,3,2.2937853107344632,4.0,406.0,8.172764200018719,fase1: Optimization terminated successfully. (HiGHS Status 7: Optimal); fase2: Optimization terminated successfully. (HiGHS Status 7: Optimal),DATCC-2A-C3 | DT-0A-C13 | ROUTER-CAMPUS-HUAYNA-CAPAC
+p-centro,MILP exacto,3,2.2937853107344632,4.0,406.0,7.81109799999831,fase1: Optimization terminated successfully. (HiGHS Status 7: Optimal); fase2: Optimization terminated successfully. (HiGHS Status 7: Optimal),DATCC-2A-C3 | DT-0A-C13 | ROUTER-CAMPUS-HUAYNA-CAPAC
 p-mediana,voraz,5,1.7966101694915255,4.0,318.0,,heuristica,INTERNET-MPLS | DATCC-2A-C2 | CPAR-C10 | DT-0A-C12 | AGRPRI-1A-D10
-p-mediana,MILP exacto,5,1.7966101694915255,4.0,318.0,0.9239228000224102,Optimization terminated successfully. (HiGHS Status 7: Optimal),AGRPRI-1A-D10 | CPAR-C10 | DATCC-2A-C2 | DT-0A-C13 | INTERNET-MPLS
+p-mediana,MILP exacto,5,1.7966101694915255,4.0,318.0,0.9126546999978018,Optimization terminated successfully. (HiGHS Status 7: Optimal),AGRPRI-1A-D10 | CPAR-C10 | DATCC-2A-C2 | DT-0A-C13 | INTERNET-MPLS
 p-centro,voraz,5,1.7966101694915255,4.0,318.0,,heuristica,INTERNET-MPLS | DATCC-2A-C2 | DT-0A-C12 | CPAR-C10 | AGRPRI-1A-D10
-p-centro,MILP exacto,5,1.9887005649717515,3.0,352.0,5.981939999997849,fase1: Optimization terminated successfully. (HiGHS Status 7: Optimal); fase2: Optimization terminated successfully. (HiGHS Status 7: Optimal),CB-EADMI-D6 | CPAR-C10 | DATCC-2A-C3 | POST-1A-A65 | ROUTER-CAMPUS-YANUNCAY
+p-centro,MILP exacto,5,1.9887005649717515,3.0,352.0,6.10438840000279,fase1: Optimization terminated successfully. (HiGHS Status 7: Optimal); fase2: Optimization terminated successfully. (HiGHS Status 7: Optimal),CB-EADMI-D6 | CPAR-C10 | DATCC-2A-C3 | POST-1A-A65 | ROUTER-CAMPUS-YANUNCAY

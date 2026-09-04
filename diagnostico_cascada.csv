@@ -1,0 +1,709 @@
+modelo,tau,trigger,campus,capa,betweenness,fallos_totales,fraccion,generaciones
+normalizada (actual),0.0,AETUC-0A-A76,Campus Central,acceso,0.011363636363636364,59,0.3333333333333333,3
+normalizada (actual),0.0,AETUC-0A-A97,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,AETUCCF-2A-A79,Campus Central,acceso,0.0,55,0.3107344632768362,2
+normalizada (actual),0.0,AGRPRI-1A-A19,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,AGRPRI-1A-D10,Campus Yanuncay,agregacion,0.12142857142857143,13,0.07344632768361582,3
+normalizada (actual),0.0,ANF-0A-A14,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,ARQ-0A-A84,Campus Central,acceso,0.0,55,0.3107344632768362,2
+normalizada (actual),0.0,ARQ-0A-A85,Campus Central,acceso,0.011363636363636364,59,0.3333333333333333,3
+normalizada (actual),0.0,ARQ-0B-A87,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ARQ-0D-A88,Campus Central,acceso,0.011363636363636364,59,0.3333333333333333,3
+normalizada (actual),0.0,ARQ-0D-A89,Campus Central,acceso,0.0,55,0.3107344632768362,2
+normalizada (actual),0.0,ARQ-0D-A90,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ARQ-0G-A93-CEPAUC,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ARQ-1C-A86,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ARQ-1C-A96,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ARQ-1E-A91,Campus Central,acceso,0.011363636363636364,59,0.3333333333333333,3
+normalizada (actual),0.0,ARQ-1E-A92,Campus Central,acceso,0.0,55,0.3107344632768362,2
+normalizada (actual),0.0,ART-0A-A15,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,AUL1-2A-A110,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL1-2A-A111,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL1-3A-A104,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL1-3A-A112,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL2-01A-A124-SUBLAB2,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL2-01A-A24-SUB,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL2-0A-A106,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL2-0A-A118,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL2-0A-A119,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL2-0A-A120,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL2-0A-A121,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL2-0A-A122,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,AUL2-0A-A123,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,BAL-AUL1-D4,Campus Balzay,agregacion,0.045064935064935065,54,0.3050847457627119,3
+normalizada (actual),0.0,BAL-AUL2-D1,Campus Balzay,agregacion,0.11071428571428571,10,0.05649717514124294,3
+normalizada (actual),0.0,BAL-CENTEC-D2,Campus Balzay,agregacion,0.05616883116883117,10,0.05649717514124294,3
+normalizada (actual),0.0,BAL-EADM-D3,Campus Balzay,agregacion,0.0225974025974026,54,0.3050847457627119,3
+normalizada (actual),0.0,BIB-2A-A16,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,BLOQUED-0A-A21,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,CB-EADMI-D6,Campus Balzay,agregacion,0.06701298701298701,10,0.05649717514124294,3
+normalizada (actual),0.0,CC-ADM-D40,Campus Central,agregacion,0.05616883116883117,12,0.06779661016949153,3
+normalizada (actual),0.0,CC-AETUC-D30,Campus Central,agregacion,0.03383116883116883,54,0.3050847457627119,3
+normalizada (actual),0.0,CC-ARQUITECTURA-D107,Campus Central,agregacion,0.12123376623376624,9,0.05084745762711865,3
+normalizada (actual),0.0,CC-BIBLIOTECA-D112,Campus Central,agregacion,0.02266233766233766,57,0.3220338983050847,3
+normalizada (actual),0.0,CC-BLOQUE-IQ,Campus Central,agregacion,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,CC-ECONOMIA-D51,Campus Central,agregacion,0.06701298701298701,10,0.05649717514124294,4
+normalizada (actual),0.0,CC-FILOSOFIA-A-D108,Campus Central,agregacion,0.055974025974025975,12,0.06779661016949153,3
+normalizada (actual),0.0,CC-FILOSOFIA-B-D111,Campus Central,agregacion,0.02266233766233766,57,0.3220338983050847,3
+normalizada (actual),0.0,CC-JURISPRUDENCIA-D110,Campus Central,agregacion,0.045064935064935065,12,0.06779661016949153,3
+normalizada (actual),0.0,CC-MONJAS-D126,Campus Central,agregacion,0.07811688311688311,10,0.05649717514124294,4
+normalizada (actual),0.0,CC-PROMAS-D31,Campus Central,agregacion,0.03383116883116883,54,0.3050847457627119,3
+normalizada (actual),0.0,CC-PSICOLOGIA-D125,Campus Central,agregacion,0.02266233766233766,57,0.3220338983050847,3
+normalizada (actual),0.0,CC-QUIMICA-D109,Campus Central,agregacion,0.045,12,0.06779661016949153,3
+normalizada (actual),0.0,CCADM-2A-A43,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,CCADM-2A-A44,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,CCADM-2A-A45,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,CCBIB-1A-A71,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,CCJ-1A-A10,Campus Central,acceso,0.0,60,0.3389830508474576,2
+normalizada (actual),0.0,CCJ-1A-A11,Campus Central,acceso,0.0,60,0.3389830508474576,2
+normalizada (actual),0.0,CCJ-CJURIDICO-D4,Campus Central,agregacion,0.02266233766233766,62,0.3502824858757062,3
+normalizada (actual),0.0,CEA-0A-A108,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,CEN-1A-A20,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,CENDIA-0A-A19,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,CMED-0A-A42,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,CP-EADMINA1-D6,Campus Paraiso,agregacion,0.0890909090909091,55,0.3107344632768362,3
+normalizada (actual),0.0,CP-ENFERMERIA-D1,Campus Paraiso,agregacion,0.03383116883116883,57,0.3220338983050847,3
+normalizada (actual),0.0,CP-INVESTIGACION-D5,Campus Paraiso,agregacion,0.0561038961038961,57,0.3220338983050847,3
+normalizada (actual),0.0,CP-ODONTOLOGIA-D4,Campus Paraiso,agregacion,0.08883116883116883,53,0.2994350282485876,3
+normalizada (actual),0.0,CP-POSGRADO-D2,Campus Paraiso,agregacion,0.06714285714285714,57,0.3220338983050847,3
+normalizada (actual),0.0,CP-TECMEDICO-D3,Campus Paraiso,agregacion,0.0561038961038961,57,0.3220338983050847,3
+normalizada (actual),0.0,CPAR-C10,Campus Paraiso,core,0.4042857142857143,8,0.04519774011299435,3
+normalizada (actual),0.0,CREDU-0B-A94,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,CTBLOQ1-0A-A101,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,CTBLOQ2-0A-A102,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,CTBLOQ3-0A-A103,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,DAN-1A-A11,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,DATCC-2A-C2,Campus Central,core,0.17059910327767486,58,0.327683615819209,2
+normalizada (actual),0.0,DATCC-2A-C3,Campus Central,core,0.4467722892187181,59,0.3333333333333333,2
+normalizada (actual),0.0,DT-0A-C12,Campus Balzay,core,0.08331761492475781,55,0.3107344632768362,2
+normalizada (actual),0.0,DT-0A-C13,Campus Balzay,core,0.2235036332714906,59,0.3333333333333333,2
+normalizada (actual),0.0,EA-0A-A114,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,EA-1A-A115,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,EA-1A-A116,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,ECOK1-1A-A101,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ECOK1-1A-A102,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ECOK2-1A-A52,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ECOK3-0A-A63,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ENF-2B-A122,Campus Paraiso,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ENF-2B-A22,Campus Paraiso,acceso,0.011363636363636364,60,0.3389830508474576,3
+normalizada (actual),0.0,ENF-3A-A21,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,FILOA-0B-A56,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,FILOA-2A-A55,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,FILOB-1B-A58,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,FILOB-2A-A57,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,FORTIGATE-1800F-BALZAY,Campus Balzay,interconexion,0.1490211296639867,60,0.3389830508474576,2
+normalizada (actual),0.0,FORTIGATE-1800F-CENTRAL,Campus Central,interconexion,0.18628854875283454,59,0.3333333333333333,2
+normalizada (actual),0.0,HOS-0A-A10,Campus Hospitalidad,acceso,0.0,60,0.3389830508474576,2
+normalizada (actual),0.0,HOS-0A-A13,Campus Hospitalidad,acceso,0.0,60,0.3389830508474576,2
+normalizada (actual),0.0,HOS-0A-D05,Campus Hospitalidad,agregacion,0.045064935064935065,61,0.3446327683615819,3
+normalizada (actual),0.0,HOS-1A-A12,Campus Hospitalidad,acceso,0.0,60,0.3389830508474576,2
+normalizada (actual),0.0,HOS-2A-A11,Campus Hospitalidad,acceso,0.0,60,0.3389830508474576,2
+normalizada (actual),0.0,INTERNET-MPLS,Nube MPLS,wan,0.3656771541950111,13,0.07344632768361582,2
+normalizada (actual),0.0,INV-1A-A161,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,INV-1A-A61,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,INV-1B-A162,Campus Paraiso,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,INV-1B-A62,Campus Paraiso,acceso,0.011363636363636364,60,0.3389830508474576,3
+normalizada (actual),0.0,JUR-0A-A59,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,JUR-0A-A60,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,JUR-1A-A61,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,JUR-1A-A62,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,LAB-1A-A18,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,LABMAC-1A-A13,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,LAC-0A-A17,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,MEDADM-0F-A16,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,MEDADM-0G-A17,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,MEDADM-1A-A11,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,MEDADM-1B-A12,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,MEDADM-1C-A13,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,MEDADM-1D-A14,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,MEDADM-1E-A15,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,MEDADM-1H-A18,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,MICRORED-1A-A109,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,MON-0A-A103,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,MON-0A-A104,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,MON-1B-A67,Campus Central,acceso,0.011363636363636364,59,0.3333333333333333,3
+normalizada (actual),0.0,MON-1B-A68,Campus Central,acceso,0.0,55,0.3107344632768362,2
+normalizada (actual),0.0,MON-1C-A105,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,MON-1C-A106,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ODO-0B-A152,Campus Paraiso,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ODO-0B-A52,Campus Paraiso,acceso,0.011363636363636364,61,0.3446327683615819,3
+normalizada (actual),0.0,ODO-0C-A153,Campus Paraiso,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ODO-0C-A154,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,ODO-0C-A53,Campus Paraiso,acceso,0.02266233766233766,57,0.3220338983050847,3
+normalizada (actual),0.0,ODO-0C-A54,Campus Paraiso,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,ODO-1A-A151,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,ODO-1A-A51,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,PE1-BALZAY,Campus Balzay,wan,0.005585497835497831,61,0.3446327683615819,2
+normalizada (actual),0.0,PE1-CENTRAL,Campus Central,wan,0.06750984333127186,58,0.327683615819209,2
+normalizada (actual),0.0,PE2-BALZAY,Campus Balzay,wan,0.14603666769738194,59,0.3333333333333333,2
+normalizada (actual),0.0,PE2-CENTRAL,Campus Central,wan,0.2881219593898162,57,0.3220338983050847,2
+normalizada (actual),0.0,POS-0A-A131,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,POS-0A-A31,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,POS-1B-A32,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,POS-2C-A133,Campus Paraiso,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,POS-2C-A33,Campus Paraiso,acceso,0.011363636363636364,61,0.3446327683615819,3
+normalizada (actual),0.0,POSLAB-0D-A34,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,POST-1A-A64,Campus Central,acceso,0.0225974025974026,55,0.3107344632768362,3
+normalizada (actual),0.0,POST-1A-A65,Campus Central,acceso,0.011363636363636364,58,0.327683615819209,3
+normalizada (actual),0.0,POST-2A-A66,Campus Central,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.0,PRO-1A-A73,Campus Central,acceso,0.011363636363636364,59,0.3333333333333333,3
+normalizada (actual),0.0,PRO-3A-A74,Campus Central,acceso,0.0,55,0.3107344632768362,2
+normalizada (actual),0.0,PSIC-1A-A53,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,PSIC-2B-A54,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,QUI-0A-A78,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,QUI-1A-A83,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,QUI-2A-A81,Campus Central,acceso,0.0,55,0.3107344632768362,2
+normalizada (actual),0.0,QUI-2A-A82,Campus Central,acceso,0.011363636363636364,59,0.3333333333333333,3
+normalizada (actual),0.0,QUIN-1A-A117,Campus Balzay,acceso,0.011363636363636364,58,0.327683615819209,3
+normalizada (actual),0.0,QUIN-1A-A128,Campus Balzay,acceso,0.0,52,0.2937853107344633,2
+normalizada (actual),0.0,ROUTER-CAMPUS-CENTRO-HISTORICO,Sede Centro Historico,wan,0.004409271284271284,59,0.3333333333333333,2
+normalizada (actual),0.0,ROUTER-CAMPUS-HUAYNA-CAPAC,Campus Paraiso,wan,0.36629779942279944,8,0.04519774011299435,3
+normalizada (actual),0.0,ROUTER-CAMPUS-MUSEO,Sede Museo,wan,0.004404761904761905,57,0.3220338983050847,2
+normalizada (actual),0.0,ROUTER-CAMPUS-PARAISO,Campus Paraiso,wan,0.10182251082251086,59,0.3333333333333333,2
+normalizada (actual),0.0,ROUTER-CAMPUS-YANUNCAY,Campus Yanuncay,wan,0.1277922077922078,13,0.07344632768361582,3
+normalizada (actual),0.0,ROUTER-L2TP-BALZAY,Campus Balzay,wan,0.014206709956709961,57,0.3220338983050847,2
+normalizada (actual),0.0,SW-ARUBA-CENTRO-HISTORICO,Sede Centro Historico,acceso,0.009650613275613283,59,0.3333333333333333,2
+normalizada (actual),0.0,SW-ARUBA-MUSEO,Sede Museo,acceso,0.00722943722943723,59,0.3333333333333333,2
+normalizada (actual),0.0,TALL-0A-A12,Campus Yanuncay,acceso,0.0,58,0.327683615819209,2
+normalizada (actual),0.0,TEAT-0A-A75,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,TECMED-0B-A42,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,TECMED-1A-A141,Campus Paraiso,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,TECMED-1A-A41,Campus Paraiso,acceso,0.011363636363636364,60,0.3389830508474576,3
+normalizada (actual),0.0,TECMED-2C-A43,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,TECMED-3D-A44,Campus Paraiso,acceso,0.0,57,0.3220338983050847,2
+normalizada (actual),0.0,TECQUI-0A-A10,Campus Central,acceso,0.02266233766233766,56,0.3163841807909605,3
+normalizada (actual),0.0,TECQUI-0A-A11,Campus Central,acceso,0.0,55,0.3107344632768362,2
+normalizada (actual),0.0,TECQUI-0A-A12,Campus Central,acceso,0.0,55,0.3107344632768362,2
+normalizada (actual),0.0,VIN-0A-A72,Campus Central,acceso,0.0,56,0.3163841807909605,2
+normalizada (actual),0.0,VLIR-0A-A107,Campus Balzay,acceso,0.0,54,0.3050847457627119,2
+normalizada (actual),0.035,AETUC-0A-A76,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,AETUC-0A-A97,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AETUCCF-2A-A79,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AGRPRI-1A-A19,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AGRPRI-1A-D10,Campus Yanuncay,agregacion,0.12142857142857143,1,0.005649717514124294,1
+normalizada (actual),0.035,ANF-0A-A14,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-0A-A84,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-0A-A85,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-0B-A87,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-0D-A88,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-0D-A89,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-0D-A90,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-0G-A93-CEPAUC,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-1C-A86,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-1C-A96,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-1E-A91,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,ARQ-1E-A92,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ART-0A-A15,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL1-2A-A110,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL1-2A-A111,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL1-3A-A104,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL1-3A-A112,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL2-01A-A124-SUBLAB2,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL2-01A-A24-SUB,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL2-0A-A106,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL2-0A-A118,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL2-0A-A119,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL2-0A-A120,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL2-0A-A121,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL2-0A-A122,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,AUL2-0A-A123,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,BAL-AUL1-D4,Campus Balzay,agregacion,0.045064935064935065,1,0.005649717514124294,1
+normalizada (actual),0.035,BAL-AUL2-D1,Campus Balzay,agregacion,0.11071428571428571,1,0.005649717514124294,1
+normalizada (actual),0.035,BAL-CENTEC-D2,Campus Balzay,agregacion,0.05616883116883117,1,0.005649717514124294,1
+normalizada (actual),0.035,BAL-EADM-D3,Campus Balzay,agregacion,0.0225974025974026,1,0.005649717514124294,1
+normalizada (actual),0.035,BIB-2A-A16,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,BLOQUED-0A-A21,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CB-EADMI-D6,Campus Balzay,agregacion,0.06701298701298701,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-ADM-D40,Campus Central,agregacion,0.05616883116883117,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-AETUC-D30,Campus Central,agregacion,0.03383116883116883,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-ARQUITECTURA-D107,Campus Central,agregacion,0.12123376623376624,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-BIBLIOTECA-D112,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-BLOQUE-IQ,Campus Central,agregacion,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-ECONOMIA-D51,Campus Central,agregacion,0.06701298701298701,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-FILOSOFIA-A-D108,Campus Central,agregacion,0.055974025974025975,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-FILOSOFIA-B-D111,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-JURISPRUDENCIA-D110,Campus Central,agregacion,0.045064935064935065,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-MONJAS-D126,Campus Central,agregacion,0.07811688311688311,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-PROMAS-D31,Campus Central,agregacion,0.03383116883116883,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-PSICOLOGIA-D125,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+normalizada (actual),0.035,CC-QUIMICA-D109,Campus Central,agregacion,0.045,1,0.005649717514124294,1
+normalizada (actual),0.035,CCADM-2A-A43,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CCADM-2A-A44,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CCADM-2A-A45,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CCBIB-1A-A71,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CCJ-1A-A10,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CCJ-1A-A11,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CCJ-CJURIDICO-D4,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+normalizada (actual),0.035,CEA-0A-A108,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CEN-1A-A20,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CENDIA-0A-A19,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CMED-0A-A42,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CP-EADMINA1-D6,Campus Paraiso,agregacion,0.0890909090909091,1,0.005649717514124294,1
+normalizada (actual),0.035,CP-ENFERMERIA-D1,Campus Paraiso,agregacion,0.03383116883116883,1,0.005649717514124294,1
+normalizada (actual),0.035,CP-INVESTIGACION-D5,Campus Paraiso,agregacion,0.0561038961038961,1,0.005649717514124294,1
+normalizada (actual),0.035,CP-ODONTOLOGIA-D4,Campus Paraiso,agregacion,0.08883116883116883,1,0.005649717514124294,1
+normalizada (actual),0.035,CP-POSGRADO-D2,Campus Paraiso,agregacion,0.06714285714285714,1,0.005649717514124294,1
+normalizada (actual),0.035,CP-TECMEDICO-D3,Campus Paraiso,agregacion,0.0561038961038961,1,0.005649717514124294,1
+normalizada (actual),0.035,CPAR-C10,Campus Paraiso,core,0.4042857142857143,1,0.005649717514124294,1
+normalizada (actual),0.035,CREDU-0B-A94,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CTBLOQ1-0A-A101,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CTBLOQ2-0A-A102,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,CTBLOQ3-0A-A103,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,DAN-1A-A11,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,DATCC-2A-C2,Campus Central,core,0.17059910327767486,9,0.05084745762711865,3
+normalizada (actual),0.035,DATCC-2A-C3,Campus Central,core,0.4467722892187181,13,0.07344632768361582,3
+normalizada (actual),0.035,DT-0A-C12,Campus Balzay,core,0.08331761492475781,10,0.05649717514124294,4
+normalizada (actual),0.035,DT-0A-C13,Campus Balzay,core,0.2235036332714906,9,0.05084745762711865,3
+normalizada (actual),0.035,EA-0A-A114,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,EA-1A-A115,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,EA-1A-A116,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ECOK1-1A-A101,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ECOK1-1A-A102,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ECOK2-1A-A52,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ECOK3-0A-A63,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ENF-2B-A122,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ENF-2B-A22,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,ENF-3A-A21,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,FILOA-0B-A56,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,FILOA-2A-A55,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,FILOB-1B-A58,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,FILOB-2A-A57,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,FORTIGATE-1800F-BALZAY,Campus Balzay,interconexion,0.1490211296639867,13,0.07344632768361582,2
+normalizada (actual),0.035,FORTIGATE-1800F-CENTRAL,Campus Central,interconexion,0.18628854875283454,12,0.06779661016949153,2
+normalizada (actual),0.035,HOS-0A-A10,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,HOS-0A-A13,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,HOS-0A-D05,Campus Hospitalidad,agregacion,0.045064935064935065,1,0.005649717514124294,1
+normalizada (actual),0.035,HOS-1A-A12,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,HOS-2A-A11,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,INTERNET-MPLS,Nube MPLS,wan,0.3656771541950111,12,0.06779661016949153,2
+normalizada (actual),0.035,INV-1A-A161,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,INV-1A-A61,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,INV-1B-A162,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,INV-1B-A62,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,JUR-0A-A59,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,JUR-0A-A60,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,JUR-1A-A61,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,JUR-1A-A62,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,LAB-1A-A18,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,LABMAC-1A-A13,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,LAC-0A-A17,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MEDADM-0F-A16,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MEDADM-0G-A17,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MEDADM-1A-A11,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MEDADM-1B-A12,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MEDADM-1C-A13,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MEDADM-1D-A14,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MEDADM-1E-A15,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MEDADM-1H-A18,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MICRORED-1A-A109,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MON-0A-A103,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MON-0A-A104,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MON-1B-A67,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,MON-1B-A68,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MON-1C-A105,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,MON-1C-A106,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ODO-0B-A152,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ODO-0B-A52,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,ODO-0C-A153,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ODO-0C-A154,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ODO-0C-A53,Campus Paraiso,acceso,0.02266233766233766,1,0.005649717514124294,1
+normalizada (actual),0.035,ODO-0C-A54,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ODO-1A-A151,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ODO-1A-A51,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,PE1-BALZAY,Campus Balzay,wan,0.005585497835497831,1,0.005649717514124294,1
+normalizada (actual),0.035,PE1-CENTRAL,Campus Central,wan,0.06750984333127186,10,0.05649717514124294,3
+normalizada (actual),0.035,PE2-BALZAY,Campus Balzay,wan,0.14603666769738194,9,0.05084745762711865,3
+normalizada (actual),0.035,PE2-CENTRAL,Campus Central,wan,0.2881219593898162,6,0.03389830508474576,2
+normalizada (actual),0.035,POS-0A-A131,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,POS-0A-A31,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,POS-1B-A32,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,POS-2C-A133,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,POS-2C-A33,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,POSLAB-0D-A34,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,POST-1A-A64,Campus Central,acceso,0.0225974025974026,1,0.005649717514124294,1
+normalizada (actual),0.035,POST-1A-A65,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,POST-2A-A66,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,PRO-1A-A73,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,PRO-3A-A74,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,PSIC-1A-A53,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,PSIC-2B-A54,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,QUI-0A-A78,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,QUI-1A-A83,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,QUI-2A-A81,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,QUI-2A-A82,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,QUIN-1A-A117,Campus Balzay,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,QUIN-1A-A128,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,ROUTER-CAMPUS-CENTRO-HISTORICO,Sede Centro Historico,wan,0.004409271284271284,38,0.21468926553672316,4
+normalizada (actual),0.035,ROUTER-CAMPUS-HUAYNA-CAPAC,Campus Paraiso,wan,0.36629779942279944,1,0.005649717514124294,1
+normalizada (actual),0.035,ROUTER-CAMPUS-MUSEO,Sede Museo,wan,0.004404761904761905,12,0.06779661016949153,4
+normalizada (actual),0.035,ROUTER-CAMPUS-PARAISO,Campus Paraiso,wan,0.10182251082251086,10,0.05649717514124294,4
+normalizada (actual),0.035,ROUTER-CAMPUS-YANUNCAY,Campus Yanuncay,wan,0.1277922077922078,1,0.005649717514124294,1
+normalizada (actual),0.035,ROUTER-L2TP-BALZAY,Campus Balzay,wan,0.014206709956709961,13,0.07344632768361582,3
+normalizada (actual),0.035,SW-ARUBA-CENTRO-HISTORICO,Sede Centro Historico,acceso,0.009650613275613283,10,0.05649717514124294,4
+normalizada (actual),0.035,SW-ARUBA-MUSEO,Sede Museo,acceso,0.00722943722943723,13,0.07344632768361582,4
+normalizada (actual),0.035,TALL-0A-A12,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,TEAT-0A-A75,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,TECMED-0B-A42,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,TECMED-1A-A141,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,TECMED-1A-A41,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+normalizada (actual),0.035,TECMED-2C-A43,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,TECMED-3D-A44,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,TECQUI-0A-A10,Campus Central,acceso,0.02266233766233766,1,0.005649717514124294,1
+normalizada (actual),0.035,TECQUI-0A-A11,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,TECQUI-0A-A12,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,VIN-0A-A72,Campus Central,acceso,0.0,1,0.005649717514124294,1
+normalizada (actual),0.035,VLIR-0A-A107,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AETUC-0A-A76,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AETUC-0A-A97,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AETUCCF-2A-A79,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AGRPRI-1A-A19,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AGRPRI-1A-D10,Campus Yanuncay,agregacion,0.12142857142857143,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ANF-0A-A14,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-0A-A84,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-0A-A85,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-0B-A87,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-0D-A88,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-0D-A89,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-0D-A90,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-0G-A93-CEPAUC,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-1C-A86,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-1C-A96,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-1E-A91,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ARQ-1E-A92,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ART-0A-A15,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL1-2A-A110,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL1-2A-A111,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL1-3A-A104,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL1-3A-A112,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL2-01A-A124-SUBLAB2,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL2-01A-A24-SUB,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL2-0A-A106,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL2-0A-A118,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL2-0A-A119,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL2-0A-A120,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL2-0A-A121,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL2-0A-A122,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,AUL2-0A-A123,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,BAL-AUL1-D4,Campus Balzay,agregacion,0.045064935064935065,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,BAL-AUL2-D1,Campus Balzay,agregacion,0.11071428571428571,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,BAL-CENTEC-D2,Campus Balzay,agregacion,0.05616883116883117,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,BAL-EADM-D3,Campus Balzay,agregacion,0.0225974025974026,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,BIB-2A-A16,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,BLOQUED-0A-A21,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CB-EADMI-D6,Campus Balzay,agregacion,0.06701298701298701,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-ADM-D40,Campus Central,agregacion,0.05616883116883117,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-AETUC-D30,Campus Central,agregacion,0.03383116883116883,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-ARQUITECTURA-D107,Campus Central,agregacion,0.12123376623376624,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-BIBLIOTECA-D112,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-BLOQUE-IQ,Campus Central,agregacion,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-ECONOMIA-D51,Campus Central,agregacion,0.06701298701298701,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-FILOSOFIA-A-D108,Campus Central,agregacion,0.055974025974025975,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-FILOSOFIA-B-D111,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-JURISPRUDENCIA-D110,Campus Central,agregacion,0.045064935064935065,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-MONJAS-D126,Campus Central,agregacion,0.07811688311688311,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-PROMAS-D31,Campus Central,agregacion,0.03383116883116883,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-PSICOLOGIA-D125,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CC-QUIMICA-D109,Campus Central,agregacion,0.045,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CCADM-2A-A43,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CCADM-2A-A44,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CCADM-2A-A45,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CCBIB-1A-A71,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CCJ-1A-A10,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CCJ-1A-A11,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CCJ-CJURIDICO-D4,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CEA-0A-A108,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CEN-1A-A20,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CENDIA-0A-A19,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CMED-0A-A42,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CP-EADMINA1-D6,Campus Paraiso,agregacion,0.0890909090909091,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CP-ENFERMERIA-D1,Campus Paraiso,agregacion,0.03383116883116883,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CP-INVESTIGACION-D5,Campus Paraiso,agregacion,0.0561038961038961,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CP-ODONTOLOGIA-D4,Campus Paraiso,agregacion,0.08883116883116883,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CP-POSGRADO-D2,Campus Paraiso,agregacion,0.06714285714285714,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CP-TECMEDICO-D3,Campus Paraiso,agregacion,0.0561038961038961,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CPAR-C10,Campus Paraiso,core,0.4042857142857143,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CREDU-0B-A94,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CTBLOQ1-0A-A101,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CTBLOQ2-0A-A102,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,CTBLOQ3-0A-A103,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,DAN-1A-A11,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,DATCC-2A-C2,Campus Central,core,0.17059910327767486,11,0.062146892655367235,2
+sin normalizar (Motter-Lai),0.0,DATCC-2A-C3,Campus Central,core,0.4467722892187181,12,0.06779661016949153,2
+sin normalizar (Motter-Lai),0.0,DT-0A-C12,Campus Balzay,core,0.08331761492475781,6,0.03389830508474576,3
+sin normalizar (Motter-Lai),0.0,DT-0A-C13,Campus Balzay,core,0.2235036332714906,11,0.062146892655367235,2
+sin normalizar (Motter-Lai),0.0,EA-0A-A114,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,EA-1A-A115,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,EA-1A-A116,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ECOK1-1A-A101,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ECOK1-1A-A102,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ECOK2-1A-A52,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ECOK3-0A-A63,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ENF-2B-A122,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ENF-2B-A22,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ENF-3A-A21,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,FILOA-0B-A56,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,FILOA-2A-A55,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,FILOB-1B-A58,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,FILOB-2A-A57,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,FORTIGATE-1800F-BALZAY,Campus Balzay,interconexion,0.1490211296639867,13,0.07344632768361582,2
+sin normalizar (Motter-Lai),0.0,FORTIGATE-1800F-CENTRAL,Campus Central,interconexion,0.18628854875283454,12,0.06779661016949153,2
+sin normalizar (Motter-Lai),0.0,HOS-0A-A10,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,HOS-0A-A13,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,HOS-0A-D05,Campus Hospitalidad,agregacion,0.045064935064935065,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,HOS-1A-A12,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,HOS-2A-A11,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,INTERNET-MPLS,Nube MPLS,wan,0.3656771541950111,12,0.06779661016949153,2
+sin normalizar (Motter-Lai),0.0,INV-1A-A161,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,INV-1A-A61,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,INV-1B-A162,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,INV-1B-A62,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,JUR-0A-A59,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,JUR-0A-A60,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,JUR-1A-A61,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,JUR-1A-A62,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,LAB-1A-A18,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,LABMAC-1A-A13,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,LAC-0A-A17,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MEDADM-0F-A16,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MEDADM-0G-A17,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MEDADM-1A-A11,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MEDADM-1B-A12,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MEDADM-1C-A13,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MEDADM-1D-A14,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MEDADM-1E-A15,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MEDADM-1H-A18,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MICRORED-1A-A109,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MON-0A-A103,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MON-0A-A104,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MON-1B-A67,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MON-1B-A68,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MON-1C-A105,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,MON-1C-A106,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ODO-0B-A152,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ODO-0B-A52,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ODO-0C-A153,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ODO-0C-A154,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ODO-0C-A53,Campus Paraiso,acceso,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ODO-0C-A54,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ODO-1A-A151,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ODO-1A-A51,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,PE1-BALZAY,Campus Balzay,wan,0.005585497835497831,7,0.03954802259887006,3
+sin normalizar (Motter-Lai),0.0,PE1-CENTRAL,Campus Central,wan,0.06750984333127186,11,0.062146892655367235,2
+sin normalizar (Motter-Lai),0.0,PE2-BALZAY,Campus Balzay,wan,0.14603666769738194,10,0.05649717514124294,2
+sin normalizar (Motter-Lai),0.0,PE2-CENTRAL,Campus Central,wan,0.2881219593898162,10,0.05649717514124294,2
+sin normalizar (Motter-Lai),0.0,POS-0A-A131,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,POS-0A-A31,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,POS-1B-A32,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,POS-2C-A133,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,POS-2C-A33,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,POSLAB-0D-A34,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,POST-1A-A64,Campus Central,acceso,0.0225974025974026,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,POST-1A-A65,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,POST-2A-A66,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,PRO-1A-A73,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,PRO-3A-A74,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,PSIC-1A-A53,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,PSIC-2B-A54,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,QUI-0A-A78,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,QUI-1A-A83,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,QUI-2A-A81,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,QUI-2A-A82,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,QUIN-1A-A117,Campus Balzay,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,QUIN-1A-A128,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ROUTER-CAMPUS-CENTRO-HISTORICO,Sede Centro Historico,wan,0.004409271284271284,13,0.07344632768361582,3
+sin normalizar (Motter-Lai),0.0,ROUTER-CAMPUS-HUAYNA-CAPAC,Campus Paraiso,wan,0.36629779942279944,5,0.02824858757062147,3
+sin normalizar (Motter-Lai),0.0,ROUTER-CAMPUS-MUSEO,Sede Museo,wan,0.004404761904761905,6,0.03389830508474576,2
+sin normalizar (Motter-Lai),0.0,ROUTER-CAMPUS-PARAISO,Campus Paraiso,wan,0.10182251082251086,7,0.03954802259887006,4
+sin normalizar (Motter-Lai),0.0,ROUTER-CAMPUS-YANUNCAY,Campus Yanuncay,wan,0.1277922077922078,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,ROUTER-L2TP-BALZAY,Campus Balzay,wan,0.014206709956709961,10,0.05649717514124294,2
+sin normalizar (Motter-Lai),0.0,SW-ARUBA-CENTRO-HISTORICO,Sede Centro Historico,acceso,0.009650613275613283,9,0.05084745762711865,2
+sin normalizar (Motter-Lai),0.0,SW-ARUBA-MUSEO,Sede Museo,acceso,0.00722943722943723,11,0.062146892655367235,3
+sin normalizar (Motter-Lai),0.0,TALL-0A-A12,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,TEAT-0A-A75,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,TECMED-0B-A42,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,TECMED-1A-A141,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,TECMED-1A-A41,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,TECMED-2C-A43,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,TECMED-3D-A44,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,TECQUI-0A-A10,Campus Central,acceso,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,TECQUI-0A-A11,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,TECQUI-0A-A12,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,VIN-0A-A72,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.0,VLIR-0A-A107,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AETUC-0A-A76,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AETUC-0A-A97,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AETUCCF-2A-A79,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AGRPRI-1A-A19,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AGRPRI-1A-D10,Campus Yanuncay,agregacion,0.12142857142857143,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ANF-0A-A14,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-0A-A84,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-0A-A85,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-0B-A87,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-0D-A88,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-0D-A89,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-0D-A90,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-0G-A93-CEPAUC,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-1C-A86,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-1C-A96,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-1E-A91,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ARQ-1E-A92,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ART-0A-A15,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL1-2A-A110,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL1-2A-A111,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL1-3A-A104,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL1-3A-A112,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL2-01A-A124-SUBLAB2,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL2-01A-A24-SUB,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL2-0A-A106,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL2-0A-A118,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL2-0A-A119,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL2-0A-A120,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL2-0A-A121,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL2-0A-A122,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,AUL2-0A-A123,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,BAL-AUL1-D4,Campus Balzay,agregacion,0.045064935064935065,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,BAL-AUL2-D1,Campus Balzay,agregacion,0.11071428571428571,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,BAL-CENTEC-D2,Campus Balzay,agregacion,0.05616883116883117,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,BAL-EADM-D3,Campus Balzay,agregacion,0.0225974025974026,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,BIB-2A-A16,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,BLOQUED-0A-A21,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CB-EADMI-D6,Campus Balzay,agregacion,0.06701298701298701,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-ADM-D40,Campus Central,agregacion,0.05616883116883117,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-AETUC-D30,Campus Central,agregacion,0.03383116883116883,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-ARQUITECTURA-D107,Campus Central,agregacion,0.12123376623376624,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-BIBLIOTECA-D112,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-BLOQUE-IQ,Campus Central,agregacion,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-ECONOMIA-D51,Campus Central,agregacion,0.06701298701298701,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-FILOSOFIA-A-D108,Campus Central,agregacion,0.055974025974025975,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-FILOSOFIA-B-D111,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-JURISPRUDENCIA-D110,Campus Central,agregacion,0.045064935064935065,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-MONJAS-D126,Campus Central,agregacion,0.07811688311688311,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-PROMAS-D31,Campus Central,agregacion,0.03383116883116883,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-PSICOLOGIA-D125,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CC-QUIMICA-D109,Campus Central,agregacion,0.045,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CCADM-2A-A43,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CCADM-2A-A44,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CCADM-2A-A45,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CCBIB-1A-A71,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CCJ-1A-A10,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CCJ-1A-A11,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CCJ-CJURIDICO-D4,Campus Central,agregacion,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CEA-0A-A108,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CEN-1A-A20,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CENDIA-0A-A19,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CMED-0A-A42,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CP-EADMINA1-D6,Campus Paraiso,agregacion,0.0890909090909091,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CP-ENFERMERIA-D1,Campus Paraiso,agregacion,0.03383116883116883,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CP-INVESTIGACION-D5,Campus Paraiso,agregacion,0.0561038961038961,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CP-ODONTOLOGIA-D4,Campus Paraiso,agregacion,0.08883116883116883,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CP-POSGRADO-D2,Campus Paraiso,agregacion,0.06714285714285714,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CP-TECMEDICO-D3,Campus Paraiso,agregacion,0.0561038961038961,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CPAR-C10,Campus Paraiso,core,0.4042857142857143,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CREDU-0B-A94,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CTBLOQ1-0A-A101,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CTBLOQ2-0A-A102,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,CTBLOQ3-0A-A103,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,DAN-1A-A11,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,DATCC-2A-C2,Campus Central,core,0.17059910327767486,7,0.03954802259887006,2
+sin normalizar (Motter-Lai),0.035,DATCC-2A-C3,Campus Central,core,0.4467722892187181,11,0.062146892655367235,3
+sin normalizar (Motter-Lai),0.035,DT-0A-C12,Campus Balzay,core,0.08331761492475781,5,0.02824858757062147,3
+sin normalizar (Motter-Lai),0.035,DT-0A-C13,Campus Balzay,core,0.2235036332714906,6,0.03389830508474576,2
+sin normalizar (Motter-Lai),0.035,EA-0A-A114,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,EA-1A-A115,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,EA-1A-A116,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ECOK1-1A-A101,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ECOK1-1A-A102,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ECOK2-1A-A52,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ECOK3-0A-A63,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ENF-2B-A122,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ENF-2B-A22,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ENF-3A-A21,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,FILOA-0B-A56,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,FILOA-2A-A55,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,FILOB-1B-A58,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,FILOB-2A-A57,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,FORTIGATE-1800F-BALZAY,Campus Balzay,interconexion,0.1490211296639867,12,0.06779661016949153,2
+sin normalizar (Motter-Lai),0.035,FORTIGATE-1800F-CENTRAL,Campus Central,interconexion,0.18628854875283454,12,0.06779661016949153,2
+sin normalizar (Motter-Lai),0.035,HOS-0A-A10,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,HOS-0A-A13,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,HOS-0A-D05,Campus Hospitalidad,agregacion,0.045064935064935065,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,HOS-1A-A12,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,HOS-2A-A11,Campus Hospitalidad,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,INTERNET-MPLS,Nube MPLS,wan,0.3656771541950111,12,0.06779661016949153,2
+sin normalizar (Motter-Lai),0.035,INV-1A-A161,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,INV-1A-A61,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,INV-1B-A162,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,INV-1B-A62,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,JUR-0A-A59,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,JUR-0A-A60,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,JUR-1A-A61,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,JUR-1A-A62,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,LAB-1A-A18,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,LABMAC-1A-A13,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,LAC-0A-A17,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MEDADM-0F-A16,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MEDADM-0G-A17,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MEDADM-1A-A11,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MEDADM-1B-A12,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MEDADM-1C-A13,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MEDADM-1D-A14,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MEDADM-1E-A15,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MEDADM-1H-A18,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MICRORED-1A-A109,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MON-0A-A103,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MON-0A-A104,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MON-1B-A67,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MON-1B-A68,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MON-1C-A105,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,MON-1C-A106,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ODO-0B-A152,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ODO-0B-A52,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ODO-0C-A153,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ODO-0C-A154,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ODO-0C-A53,Campus Paraiso,acceso,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ODO-0C-A54,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ODO-1A-A151,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ODO-1A-A51,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,PE1-BALZAY,Campus Balzay,wan,0.005585497835497831,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,PE1-CENTRAL,Campus Central,wan,0.06750984333127186,4,0.022598870056497175,2
+sin normalizar (Motter-Lai),0.035,PE2-BALZAY,Campus Balzay,wan,0.14603666769738194,8,0.04519774011299435,3
+sin normalizar (Motter-Lai),0.035,PE2-CENTRAL,Campus Central,wan,0.2881219593898162,6,0.03389830508474576,2
+sin normalizar (Motter-Lai),0.035,POS-0A-A131,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,POS-0A-A31,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,POS-1B-A32,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,POS-2C-A133,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,POS-2C-A33,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,POSLAB-0D-A34,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,POST-1A-A64,Campus Central,acceso,0.0225974025974026,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,POST-1A-A65,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,POST-2A-A66,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,PRO-1A-A73,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,PRO-3A-A74,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,PSIC-1A-A53,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,PSIC-2B-A54,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,QUI-0A-A78,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,QUI-1A-A83,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,QUI-2A-A81,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,QUI-2A-A82,Campus Central,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,QUIN-1A-A117,Campus Balzay,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,QUIN-1A-A128,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ROUTER-CAMPUS-CENTRO-HISTORICO,Sede Centro Historico,wan,0.004409271284271284,11,0.062146892655367235,4
+sin normalizar (Motter-Lai),0.035,ROUTER-CAMPUS-HUAYNA-CAPAC,Campus Paraiso,wan,0.36629779942279944,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ROUTER-CAMPUS-MUSEO,Sede Museo,wan,0.004404761904761905,11,0.062146892655367235,4
+sin normalizar (Motter-Lai),0.035,ROUTER-CAMPUS-PARAISO,Campus Paraiso,wan,0.10182251082251086,3,0.01694915254237288,3
+sin normalizar (Motter-Lai),0.035,ROUTER-CAMPUS-YANUNCAY,Campus Yanuncay,wan,0.1277922077922078,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,ROUTER-L2TP-BALZAY,Campus Balzay,wan,0.014206709956709961,13,0.07344632768361582,3
+sin normalizar (Motter-Lai),0.035,SW-ARUBA-CENTRO-HISTORICO,Sede Centro Historico,acceso,0.009650613275613283,6,0.03389830508474576,3
+sin normalizar (Motter-Lai),0.035,SW-ARUBA-MUSEO,Sede Museo,acceso,0.00722943722943723,4,0.022598870056497175,2
+sin normalizar (Motter-Lai),0.035,TALL-0A-A12,Campus Yanuncay,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,TEAT-0A-A75,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,TECMED-0B-A42,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,TECMED-1A-A141,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,TECMED-1A-A41,Campus Paraiso,acceso,0.011363636363636364,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,TECMED-2C-A43,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,TECMED-3D-A44,Campus Paraiso,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,TECQUI-0A-A10,Campus Central,acceso,0.02266233766233766,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,TECQUI-0A-A11,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,TECQUI-0A-A12,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,VIN-0A-A72,Campus Central,acceso,0.0,1,0.005649717514124294,1
+sin normalizar (Motter-Lai),0.035,VLIR-0A-A107,Campus Balzay,acceso,0.0,1,0.005649717514124294,1
